@@ -30,12 +30,13 @@ jobs:
           npm run build
       - name: Upload ftp
         if: success()
-        uses: genietim/ftp-action@releases/v4
+        uses: sebastianpopp/ftp-action@releases/v2
         with:
           host: ${{ secrets.FTP_SERVER }}
           user: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           localDir: "build"
           remoteDir: "www"
+          options: "--delete --asci"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
