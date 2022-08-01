@@ -24,22 +24,22 @@ tags:
 
 ●  本课视频在“慧灯之光”网站地址链接为：
 
-http://www.huidengzhiguang.com/index.php/huideng-jiangtang/2016-07-21-09-15-04/2017-01-20-04-20-16/619-l15011
+https://www.huidengzhiguang.com/index.php/huideng-jiangtang/2016-07-21-09-15-04/2017-01-20-04-20-16/619-l15011
 
 
 
 ●  本课文字在线阅读地址链接为：
 
-http://www.huidengzhiguang.com/index.php/huideng-zhiguang/huideng-zhiguang-2/160-a00022
+https://www.huidengzhiguang.com/index.php/huideng-zhiguang/huideng-zhiguang-2/160-a00022
 
 
 
 ●  本课电子书下载地址链接为：
 
-http://d.huidengzhiguang.com/?id=F00022
+https://d.huidengzhiguang.com/?id=F00022
 
 
 
 ●  本课有声书下载地址链接为：
 
-http://d.huidengzhiguang.com/?id=B00022
+https://d.huidengzhiguang.com/?id=B00022

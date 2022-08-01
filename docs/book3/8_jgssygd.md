@@ -24,16 +24,16 @@ tags:
 
 ●  本课文字在线阅读地址链接为：
 
-http://www.huidengzhiguang.com/index.php/huideng-zhiguang/huideng-zhiguang-01/154-a00017
+https://www.huidengzhiguang.com/index.php/huideng-zhiguang/huideng-zhiguang-01/154-a00017
 
 
 
 ●  本课电子书下载地址链接为：
 
-http://d.huidengzhiguang.com/?id=F00017
+https://d.huidengzhiguang.com/?id=F00017
 
 
 
 ●  本课有声书下载地址链接为：
 
-http://d.huidengzhiguang.com/?id=B00017
+https://d.huidengzhiguang.com/?id=B00017

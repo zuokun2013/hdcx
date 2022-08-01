@@ -93,7 +93,7 @@ Original HDZG_ZEN 慧灯之光禅修 2021-09-30 11:10
 
 ②慧灯禅修课视频及教材内容，可在慧灯之光官网和慧灯之光App上查看。官网查看地址： 
 
-http://www.huidengzhiguang.com/index.php/huideng-jiangtang/2016-07-21-09-15-04/2017-01-20-04-20-16
+https://www.huidengzhiguang.com/index.php/huideng-jiangtang/2016-07-21-09-15-04/2017-01-20-04-20-16
 
 
 

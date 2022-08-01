@@ -26,7 +26,7 @@ tags:
 
 ●  本课视频在“慧灯之光”网站地址链接为：
 
-http://www.huidengzhiguang.com/index.php/huideng-jiangtang/2016-07-21-09-15-04/2017-01-20-04-20-16/1707-l16123
+https://www.huidengzhiguang.com/index.php/huideng-jiangtang/2016-07-21-09-15-04/2017-01-20-04-20-16/1707-l16123
 
 
 

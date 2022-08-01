@@ -54,7 +54,7 @@ Image
 
 《三个差别》视频链接：
 
-http://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-07-49-59/492-l14001
+https://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-07-49-59/492-l14001
 
 2
 
@@ -62,21 +62,21 @@ http://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-
 
 《三殊胜》（上）视频链接：
 
-http://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-07-49-59/519-l14011
+https://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-07-49-59/519-l14011
 
 《三殊胜》（中）视频链接：
 
-http://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-07-49-59/520-l14012
+https://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-07-49-59/520-l14012
 
 《三殊胜》（下）视频链接：
 
-http://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-07-49-59/521-l14013
+https://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-07-49-59/521-l14013
 
 3
 
 生存的方式和生存的意义：
 
-《生存的方式和生存的意义》音频链接：http://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-09-20-23/918-l06018
+《生存的方式和生存的意义》音频链接：https://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-09-20-23/918-l06018
 
 
 
@@ -123,7 +123,7 @@ http://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-
 
 《佛教徒的生活模式》音频链接：
 
-http://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-09-20-23/916-l07004
+https://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-09-20-23/916-l07004
 
 2
 
@@ -131,9 +131,9 @@ http://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-
 
 《如何做一个标准居士》（一）音频链接：
 
-http://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-07-49-59/920-l06016
+https://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-07-49-59/920-l06016
 
-《如何做一个标准居士》（二）音频链接：http://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-07-49-59/921-l06017
+《如何做一个标准居士》（二）音频链接：https://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-07-49-59/921-l06017
 
 3
 
@@ -141,7 +141,7 @@ http://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-
 
 《浅谈因果关系》音频链接：
 
-http://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-07-49-59/1683-l02001
+https://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-07-49-59/1683-l02001
 
 4
 
@@ -149,11 +149,11 @@ http://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-
 
 《行为转为道用之一》视频链接：
 
-http://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-09-20-23/568-l10040
+https://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-09-20-23/568-l10040
 
 《行为转为道用之二》视频链接：
 
-http://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-09-20-23/715-l10041
+https://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-09-20-23/715-l10041
 
 
 
@@ -200,7 +200,7 @@ http://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-
 
 《佛教的定义》音频链接：
 
-http://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-07-49-59/1691-l09048
+https://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-07-49-59/1691-l09048
 
 2
 
@@ -208,7 +208,7 @@ http://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-
 
 《解脱的原理》视频链接：
 
-http://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-07-49-31/605-l10001
+https://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-07-49-31/605-l10001
 
 3
 
@@ -216,7 +216,7 @@ http://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-
 
 麦彭仁波切对初学者的教诲音频链接：
 
-http://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-07-49-59/919-l06009
+https://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-07-49-59/919-l06009
 
 
 
@@ -226,4 +226,4 @@ http://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-
 
 《慧灯禅修教材一》电子书下载链接：
 
-http://d.huidengzhiguang.com/hdzg/chanxiubanjiaocai_01.pdf
+https://d.huidengzhiguang.com/hdzg/chanxiubanjiaocai_01.pdf

@@ -26,22 +26,22 @@ tags:
 
 ●  本课音频在“慧灯之光”网站地址链接为：
 
-http://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-09-24-06/1838-l02010
+https://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-09-24-06/1838-l02010
 
 
 
 ●  本课文字在线阅读地址链接为：
 
-http://www.huidengzhiguang.com/index.php/huideng-zhiguang/huideng-zhiguang-01/1835-a00018
+https://www.huidengzhiguang.com/index.php/huideng-zhiguang/huideng-zhiguang-01/1835-a00018
 
 
 
 ●  本课电子书下载地址链接为：
 
-http://d.huidengzhiguang.com/?id=F00018
+https://d.huidengzhiguang.com/?id=F00018
 
 
 
 ●  本课有声书下载地址链接为：
 
-http://d.huidengzhiguang.com/?id=B00018
+https://d.huidengzhiguang.com/?id=B00018
