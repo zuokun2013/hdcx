@@ -37,6 +37,6 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           localDir: "build"
           remoteDir: "www"
-          options: "--delete --asci"
+          # options: "--delete --asci"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
