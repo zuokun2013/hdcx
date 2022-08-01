@@ -1,5 +1,9 @@
 ---
 sidebar_position: 3
+sidebar_label: 人身难得
+title: 入坐与出坐及人身难得自修与学修安排
+tags:
+  - 4jx
 ---
 
 

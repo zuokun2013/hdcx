@@ -1,5 +1,9 @@
 ---
 sidebar_position: 4
+sidebar_label: 寿命无常
+title: 寿命无常自修与学修安排
+tags:
+  - 4jx
 ---
 
 

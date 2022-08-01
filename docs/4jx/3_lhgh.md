@@ -1,5 +1,9 @@
 ---
 sidebar_position: 5
+sidebar_label: 轮回过患
+title: 轮回过患自修与学修安排
+tags:
+  - 4jx
 ---
 
 

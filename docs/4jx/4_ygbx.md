@@ -1,5 +1,9 @@
 ---
 sidebar_position: 6
+sidebar_label: 因果不虚
+title: 因果不虚及其他修法自修与学修安排
+tags:
+  - 4jx
 ---
 
 
