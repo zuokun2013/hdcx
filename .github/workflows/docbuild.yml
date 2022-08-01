@@ -25,7 +25,7 @@ jobs:
       # Install and build Docusaurus website
       - name: Build Docusaurus website
         run: |
-          cd hdcx
+          cd /home/runner/work/hdcx/hdcx
           npm install 
           npm run build
       - name: Upload ftp
