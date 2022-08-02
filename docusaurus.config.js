@@ -108,9 +108,7 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-    plugins: [[ require.resolve('docusaurus-lunr-search'), {
-      languages: ['en', 'zh'] // language codes
-    }]],
+    plugins: ['@aldridged/docusaurus-plugin-lunr'],
 };
 
 module.exports = config;
