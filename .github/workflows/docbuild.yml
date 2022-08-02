@@ -26,8 +26,7 @@ jobs:
       - name: Build Docusaurus website
         run: |
           cd /home/runner/work/hdcx/hdcx
-          npm i docusaurus-lunr-search  --save
-          npm install --save @aldridged/docusaurus-plugin-lunr
+          npm install --save @easyops-cn/docusaurus-search-local
           npm install 
           npm run build
       - name: Upload ftp
