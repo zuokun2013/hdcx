@@ -1,6 +1,11 @@
+---
+sidebar_position: 0
+# sidebar_label: 学修说明～第二册
+title: 学修说明～第二册
+---
 学修说明～第二册
 HDZG_ZEN 慧灯之光禅修 2020-09-15 02:42
-Image
+
 
 
  总述 
