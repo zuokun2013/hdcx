@@ -26,7 +26,9 @@ jobs:
       - name: Build Docusaurus website
         run: |
           cd /home/runner/work/hdcx/hdcx
+          npm i docusaurus-lunr-search  --save
           npm install 
+          npm run swizzle docusaurus-lunr-search SearchBar -- --danger
           npm run build
       - name: Upload ftp
         if: success()
