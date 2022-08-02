@@ -60,7 +60,7 @@ const config = {
         title: '慧灯禅修',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/hdlogo.png',
         },
         items: [
           {
@@ -84,7 +84,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: '学修指南',
                 to: '/docs/intro',
               },
             ],
@@ -101,14 +101,16 @@ const config = {
           //   ],
           // },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} 慧灯小组温哥华（huidengvan.com）, 慧灯禅修学修指南. Built with Docusaurus.`,
+        copyright: `慧灯禅修学修指南 ${new Date().getFullYear()} 慧灯小组温哥华（huidengvan.com / huidengvan@gmail.com）发心制作. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),
-    plugins: [require.resolve('docusaurus-lunr-search')],
+    plugins: [[ require.resolve('docusaurus-lunr-search'), {
+      languages: ['en', 'zh'] // language codes
+    }]],
 };
 
 module.exports = config;
