@@ -1,0 +1,31 @@
+---
+sidebar_position: 12
+sidebar_label: 2三殊胜（上）
+title: 教材第一册 第二课 《三殊胜》（上）
+---
+教材第一册 第二课 《三殊胜》（上）
+HDZG_ZEN 慧灯之光禅修 2020-03-19 01:18
+
+
+小编语
+
+
+视频内容与法本内容不完全一致，为了更好地理解法义，建议学习时，视频和法本相结合。
+
+
+
+●  本课视频在“慧灯之光”网站地址链接为：
+
+http://www.huidengzhiguang.com/index.php/huideng-jiangtang/fofa-jianxiu/2016-07-21-07-49-59/519-l14011
+
+
+
+●  本课文字在线阅读地址链接为：
+
+http://www.huidengzhiguang.com/index.php/huideng-zhiguang/huideng-zhiguang-01/131-a00002
+
+
+概述
+
+
+我们做任何一件善事时都不能离开三殊胜。本课讲述了三殊胜中的第一个：发心殊胜。发心包括不善、无记、善三种，其中善的发心又分为上、中、下三个层次。行善时要先观察自己的发心，以发大乘的菩提心为目标。

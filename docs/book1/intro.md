@@ -1,7 +1,11 @@
+---
+sidebar_position: 1
+sidebar_label: 学修说明
+title: 学修说明～第一册
+---
+
 学修说明～第一册
 HDZG_ZEN 慧灯之光禅修 2020-09-15 02:27
-Image
-
 
  总述 
 
