@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 0
 sidebar_label: 音视频链接
 title: 4加行音视频链接
 tags:
@@ -36,7 +36,7 @@ tags:
 24 | [因果不虚6视频](http://huidengchanxiu.net/jmy/%e6%85%a7%e7%81%af%e7%a6%85%e4%bf%ae%e8%af%be/%e6%85%a7%e7%81%af%e7%a6%85%e4%bf%ae%e8%af%be%e7%ac%ac%e4%b8%89%e5%86%8c/05-6%20%e6%85%a7%e7%81%af%e7%a6%85%e4%bf%ae%e8%af%be18%20%e5%9b%a0%e6%9e%9c%e4%b8%8d%e8%99%9a6.mp4) | 
 24 | [解脱利益视频](http://huidengchanxiu.net/jmy/%e6%85%a7%e7%81%af%e7%a6%85%e4%bf%ae%e8%af%be/%e6%85%a7%e7%81%af%e7%a6%85%e4%bf%ae%e8%af%be%e7%ac%ac%e4%b8%89%e5%86%8c/06-1%20%e6%85%a7%e7%81%af%e7%a6%85%e4%bf%ae%e8%af%be19%20%e8%a7%a3%e8%84%b1%e5%88%a9%e7%9b%8a.mp4) | 
 24 | [依止上师视频](http://huidengchanxiu.net/jmy/%e6%85%a7%e7%81%af%e7%a6%85%e4%bf%ae%e8%af%be/%e6%85%a7%e7%81%af%e7%a6%85%e4%bf%ae%e8%af%be%e7%ac%ac%e4%b8%89%e5%86%8c/06-2%20%e6%85%a7%e7%81%af%e7%a6%85%e4%bf%ae%e8%af%be20%20%e4%be%9d%e6%ad%a2%e4%b8%8a%e5%b8%88.mp4) | 
-24 | 如何学密 | 此为音频，暂无视频
+24 | [如何学密](http://huidengchanxiu.net/jmy/%e6%85%a7%e7%81%af%e7%a6%85%e4%bf%ae%e8%af%be/%e6%85%a7%e7%81%af%e7%a6%85%e4%bf%ae%e8%af%be%e7%ac%ac%e4%b8%89%e5%86%8c/07%20%e5%a6%82%e4%bd%95%e5%ad%a6%e5%af%86.mp3) | 此为音频，暂无视频
 24 | 金刚上师与灌顶 | 无音视频文件，请以教材内容为准。
 24 | 前行念诵仪轨·开显解脱道 | 无音视频文件，请以教材内容为准。
 
