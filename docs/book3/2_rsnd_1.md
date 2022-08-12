@@ -17,8 +17,9 @@ tags:
 本课介绍四外加行的第一个：人身难得。一共有三十七个修法，本课详细讲解了其中第一个修法（八无暇之地狱），三种八无暇都采用这种思维模式。此外，强调了我们应该为众生的解脱而修行，也就是选择大乘佛教的修行。
 
 
+import ReactPlayer from 'react-player'
 
-
+<ReactPlayer id='hdvplayer' controls url='http://huidengchanxiu.net/jmy/%e6%85%a7%e7%81%af%e7%a6%85%e4%bf%ae%e8%af%be/%e6%85%a7%e7%81%af%e7%a6%85%e4%bf%ae%e8%af%be%e7%ac%ac%e4%b8%89%e5%86%8c/02-1%20%e6%85%a7%e7%81%af%e7%a6%85%e4%bf%ae%e8%af%be2%20%e4%ba%ba%e8%ba%ab%e9%9a%be%e5%be%971.mp4' />
 
 
 
