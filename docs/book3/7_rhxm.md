@@ -17,8 +17,9 @@ tags:
 修学密宗的人，应该按照次第修持。本课介绍了学密的基础和修习次第，针对第五个次第即密宗修习方面，讲解了密宗生圆次第的见解及在修行上与显宗的差别，强调只有从出离心和菩提心出发，才能抵达究竟实相的终点。
 
 
+import ReactPlayer from 'react-player'
 
-
+<ReactPlayer id='hdvplayer' light='/img/lamp-hope.png' controls url='http://huidengchanxiu.net/jmy/%e6%85%a7%e7%81%af%e7%a6%85%e4%bf%ae%e8%af%be/%e6%85%a7%e7%81%af%e7%a6%85%e4%bf%ae%e8%af%be%e7%ac%ac%e4%b8%89%e5%86%8c/07%20%e5%a6%82%e4%bd%95%e5%ad%a6%e5%af%86.mp3' />
 
 
 
