@@ -58,9 +58,29 @@ const config = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'kcap',
-        path: 'kcap',
-        routeBasePath: 'kcap',
+        id: 'wsb',
+        path: 'wsb',
+        routeBasePath: 'wsb',
+        sidebarPath: require.resolve('./sidebars.js'),
+        // ... other options
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: '4jx',
+        path: '4jx',
+        routeBasePath: '4jx',
+        sidebarPath: require.resolve('./sidebars.js'),
+        // ... other options
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: '5jx',
+        path: '5jx',
+        routeBasePath: '5jx',
         sidebarPath: require.resolve('./sidebars.js'),
         // ... other options
       },
@@ -85,10 +105,24 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'kcap',
-            docsPluginId: 'kcap',
+            docId: 'intro',
+            docsPluginId: 'wsb',
             position: 'left',
-            label: '课程安排',
+            label: '闻思班',
+          },
+          {
+            type: 'doc',
+            docId: 'intro',
+            docsPluginId: '4jx',
+            position: 'left',
+            label: '四加行',
+          },
+          {
+            type: 'doc',
+            docId: 'intro',
+            docsPluginId: '5jx',
+            position: 'left',
+            label: '五加行',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           // {
