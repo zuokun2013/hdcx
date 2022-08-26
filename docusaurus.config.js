@@ -33,6 +33,8 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          path: 'docs',
+          routeBasePath: 'docs',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -52,6 +54,18 @@ const config = {
       }),
     ],
   ],
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'kcap',
+        path: 'kcap',
+        routeBasePath: 'kcap',
+        sidebarPath: require.resolve('./sidebars.js'),
+        // ... other options
+      },
+    ],
+  ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -59,7 +73,7 @@ const config = {
       navbar: {
         title: '慧灯禅修',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'HuidengVan',
           src: 'img/hdlogo.png',
         },
         items: [
@@ -68,6 +82,13 @@ const config = {
             docId: 'intro',
             position: 'left',
             label: '学修指南',
+          },
+          {
+            type: 'doc',
+            docId: 'kcap',
+            docsPluginId: 'kcap',
+            position: 'left',
+            label: '课程安排',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           // {
