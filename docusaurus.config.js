@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '慧灯禅修',
-  tagline: '学修指南',
+  title: '慧灯禅修班',
+  tagline: '学修指南及参考课程进度安排',
   url: 'https://huidengchanxiu.net',
   baseUrl: '/',
   onBrokenLinks: 'throw',
