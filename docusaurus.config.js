@@ -115,7 +115,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'index',
+            docId: 'b1/1-01',
             docsPluginId: 'books',
             position: 'left',
             label: '课程法本',
