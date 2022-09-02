@@ -182,7 +182,7 @@ const config = {
           //   ],
           // },
         ],
-        copyright: `慧灯禅修学修指南 ${new Date().getFullYear()} 慧灯小组温哥华（huidengvan.com / huidengvan@gmail.com）发心制作. Built with Docusaurus.`,
+        copyright: `慧灯小组温哥华（huidengvan.com / huidengvan@gmail.com）发心制作. Built with Docusaurus. ${new Date().getFullYear()} `,
       },
       prism: {
         theme: lightCodeTheme,
