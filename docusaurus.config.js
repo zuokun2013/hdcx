@@ -68,6 +68,16 @@ const config = {
     [
       '@docusaurus/plugin-content-docs',
       {
+        id: 'books',
+        path: 'books',
+        routeBasePath: 'books',
+        sidebarPath: require.resolve('./sidebars.js'),
+        // ... other options
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
         id: '4jx',
         path: '4jx',
         routeBasePath: '4jx',
@@ -102,6 +112,13 @@ const config = {
             docId: 'intro',
             position: 'left',
             label: '学修指南',
+          },
+          {
+            type: 'doc',
+            docId: 'index',
+            docsPluginId: 'books',
+            position: 'left',
+            label: '课程法本',
           },
           {
             type: 'doc',
@@ -141,6 +158,15 @@ const config = {
               {
                 label: '学修指南',
                 to: '/docs/intro',
+              },
+            ],
+          },
+          {
+            title: '法本',
+            items: [
+              {
+                label: '第一册',
+                to: '/books/b1/',
               },
             ],
           },
