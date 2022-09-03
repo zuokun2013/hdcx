@@ -3,6 +3,7 @@
   "position": 5,
   "link": {
     "type": "generated-index",
-    "description": "四加行学修指南"
+    "title": "四加行学修指南",
+    "slug": "4jx"
   }
 }

@@ -2,6 +2,8 @@
   "label": "第二册",
   "position": 20,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "title": "第二册",
+    "slug": "b2"
   }
 }

@@ -2,6 +2,8 @@
   "label": "灌顶必读",
   "position": 35,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "title": "灌顶必读",
+    "slug": "gd"
   }
 }

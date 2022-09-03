@@ -3,6 +3,7 @@
   "position": 20,
   "link": {
     "type": "generated-index",
-    "description": "第2阶段"
+    "title": "第2阶段",
+    "slug": "book2/p2"
   }
 }

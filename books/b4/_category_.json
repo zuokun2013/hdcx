@@ -2,6 +2,8 @@
   "label": "第四册",
   "position": 40,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "title": "第四册",
+    "slug": "b4"
   }
 }

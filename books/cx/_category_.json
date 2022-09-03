@@ -2,6 +2,8 @@
   "label": "禅修要诀",
   "position": 25,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "title": "禅修要诀",
+    "slug": "cx"
   }
 }

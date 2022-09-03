@@ -3,6 +3,7 @@
   "position": 1,
   "link": {
     "type": "generated-index",
-    "description": "第一册"
+    "description": "第一册",
+    "slug": "book1"
   }
 }
