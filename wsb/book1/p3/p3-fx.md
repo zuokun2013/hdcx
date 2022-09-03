@@ -1,28 +1,11 @@
----
-title: 第一册第3阶段复习--2021届2022年2月25日共修
-date: 2022-02-22 09:07:35-08:00
-categories:
-  - 慧灯禅修班
-tags:
-  - 2021届
----
-诸法等性本基法界中 自现圆满三身游舞力  
-离障本来怙主龙钦巴 祈请无垢光尊常护我  
+# 22 第三阶段复习（1次）
 
-第一册第3阶段复习--2021届2022年2月25日共修
+【 学修目标与提示 】
 
-## 时间：
+明晰佛法学修的目标、次第、方法、原理，明确作为初学者的学修立足点和着力点，逐渐将佛法正见转变成自己的认识和观念，并学会以此解决生活中的问题，培养学修的信心、意乐和精进心。
 
-* 温哥华时间星期五 晚 6:30 点
-* 北京时间星期六 上午 10:30 点
+## 复习内容
 
-* 网络共修
-  * Zoom房间号码： 7789995278 (<https://us02web.zoom.us/j/7789995278?pwd=VjZmbWJFY2k2K0E5RVB2cTNIQmhqUT09>)
-  * Zoom房间密码： 19621211
-    
-### 第三阶段复习（1次）
-
-- [佛教的定义 ppt](https://huidengchanxiu.net/hdv/f/up/2020%E6%85%A7%E7%81%AF%E7%A6%85%E4%BF%AE%E7%8F%AD%E7%AC%AC%E5%8D%81%E5%85%AD%E5%A0%82%E8%AF%BE-%E4%BD%9B%E6%95%99%E7%9A%84%E5%AE%9A%E4%B9%89.pptx)
-- [解脱的原理 ppt](https://huidengchanxiu.net/hdv/f/up/2020%E6%85%A7%E7%81%AF%E7%A6%85%E4%BF%AE%E7%8F%AD%E7%AC%AC%E5%8D%81%E4%B8%83%E5%A0%82%E8%AF%BE-%E8%A7%A3%E8%84%B1%E7%9A%84%E5%8E%9F%E7%90%86.pptx)
-- [对初学者的教诲 ppt](https://huidengchanxiu.net/hdv/f/up/慧灯禅修班第十八堂课-对初学者的教诲-2.pptx)
-
+* [第一册 第八课 《佛教的定义》 参考串讲](http://view.officeapps.live.com/op/view.aspx?src=https://huidengchanxiu.net/hdv/f/up/2020慧灯禅修班第十六堂课-佛教的定义.pptx) | [下载](https://huidengchanxiu.net/hdv/f/up/2020慧灯禅修班第十六堂课-佛教的定义.pptx)
+* [第一册 第九课 《解脱的原理》 参考串讲](http://view.officeapps.live.com/op/view.aspx?src=https://huidengchanxiu.net/hdv/f/up/2020慧灯禅修班第十七堂课-解脱的原理.pptx) | [下载](https://huidengchanxiu.net/hdv/f/up/2020慧灯禅修班第十七堂课-解脱的原理.pptx)
+* [第一册 第十课 《对初学者的教诲》 参考串讲](http://view.officeapps.live.com/op/view.aspx?src=http://huidengchanxiu.net/hdv/f/up/慧灯禅修班第十八堂课-对初学者的教诲-2.pptx) | [下载](http://huidengchanxiu.net/hdv/f/up/慧灯禅修班第十八堂课-对初学者的教诲-2.pptx)
