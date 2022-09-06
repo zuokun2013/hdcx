@@ -1,14 +1,13 @@
 
 
-# 第2册第二阶段复习
+# 12 第2册第二阶段复习
 
 【 学修目标与提示 】
 这一阶段的法义没有复杂的理论，重点在于从法义的整体脉络上体会学修的次第，并拓展我们的视野和心量，从“我自己”、“佛教徒”拓展到“地球上所有的生命”；再到“大千世界”乃至“六道一切众生”。
 
-* [戒杀放生的功德](https://www.huidengvan.com/posts/2022-05-04-%E6%88%92%E6%9D%80%E6%94%BE%E7%94%9F%E7%9A%84%E5%8A%9F%E5%BE%B7-2021%E5%B1%8A2022%E5%B9%B45%E6%9C%886%E6%97%A5%E5%85%B1%E4%BF%AE/)
-* [素食的意义](https://www.huidengvan.com/posts/2022-05-10-%E7%B4%A0%E9%A3%9F%E7%9A%84%E6%84%8F%E4%B9%89-2021%E5%B1%8A2022%E5%B9%B45%E6%9C%8813%E6%97%A5%E5%85%B1%E4%BF%AE/)
-* [关于放生](https://www.huidengvan.com/posts/2022-05-17-%E5%85%B3%E4%BA%8E%E6%94%BE%E7%94%9F2020-%E5%B1%8A-2021%E5%B9%B45%E6%9C%8820%E6%97%A5%E5%85%B1%E4%BF%AE/)
-* [世界和平共处的诀窍：平等生存](https://www.huidengvan.com/posts/2022-05-21-%E4%B8%96%E7%95%8C%E5%92%8C%E5%B9%B3%E5%85%B1%E5%A4%84%E7%9A%84%E7%AA%8D%E8%AF%80-2021-%E5%B1%8A-2022-%E5%B9%B4-5-%E6%9C%88-27-%E6%97%A5%E5%85%B1%E4%BF%AE/)
-* [受戒行善的殊胜](https://www.huidengvan.com/posts/2022-05-21-%E4%B8%96%E7%95%8C%E5%92%8C%E5%B9%B3%E5%85%B1%E5%A4%84%E7%9A%84%E7%AA%8D%E8%AF%80-2021-%E5%B1%8A-2022-%E5%B9%B4-5-%E6%9C%88-27-%E6%97%A5%E5%85%B1%E4%BF%AE/)
+## 复习内容
 
-<!--EndFragment-->
+* [第二册 第四课 《戒杀放生的功德》 参考串讲](http://view.officeapps.live.com/op/view.aspx?src=https://huidengchanxiu.net/hdv/f/up/慧灯禅修班第二册第三课.pptx) | [下载](https://huidengchanxiu.net/hdv/f/up/慧灯禅修班第二册第三课.pptx)
+* [第二册 第五课 《素食的意义》 参考串讲](http://view.officeapps.live.com/op/view.aspx?src=https://huidengchanxiu.net/hdv/f/up/慧灯禅修班第二册第四课.pptx) | [下载](https://huidengchanxiu.net/hdv/f/up/慧灯禅修班第二册第四课.pptx)
+* [第二册 第六课 《关于放生》 参考串讲](http://view.officeapps.live.com/op/view.aspx?src=https://huidengchanxiu.net/hdv/f/up/关于放生.pptx) | [下载](https://huidengchanxiu.net/hdv/f/up/关于放生.pptx)
+* [第二册 第七课 《世界和平共处的诀窍--平等生存》 参考串讲](http://view.officeapps.live.com/op/view.aspx?src=https://huidengchanxiu.net/hdv/f/up/慧灯禅修班第二册第六课.pptx) | [下载](https://huidengchanxiu.net/hdv/f/up/慧灯禅修班第二册第六课.pptx)
