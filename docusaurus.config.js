@@ -122,7 +122,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'book1',
             docsPluginId: 'wsb',
             position: 'left',
             label: '闻思班',
