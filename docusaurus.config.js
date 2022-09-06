@@ -129,14 +129,14 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'intro',
+            docId: '1xm',
             docsPluginId: '4jx',
             position: 'left',
             label: '四加行',
           },
           {
             type: 'doc',
-            docId: 'intro',
+            docId: '1gy',
             docsPluginId: '5jx',
             position: 'left',
             label: '五加行',
