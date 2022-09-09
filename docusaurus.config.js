@@ -78,6 +78,16 @@ const config = {
     [
       '@docusaurus/plugin-content-docs',
       {
+        id: 'refs',
+        path: 'refs',
+        routeBasePath: 'refs',
+        sidebarPath: require.resolve('./sidebars.js'),
+        // ... other options
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
         id: '4jx',
         path: '4jx',
         routeBasePath: '4jx',
@@ -119,6 +129,13 @@ const config = {
             docsPluginId: 'books',
             position: 'left',
             label: '课程法本',
+          },
+          {
+            type: 'doc',
+            docId: 'index',
+            docsPluginId: 'refs',
+            position: 'left',
+            label: '参考法本',
           },
           {
             type: 'doc',
