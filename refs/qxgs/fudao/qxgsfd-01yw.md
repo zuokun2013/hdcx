@@ -4,6 +4,9 @@ title: "01引文"
 
 ---
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
 
 本稿仅为方便内部学习所用，非正式文稿，仅供参考！
 

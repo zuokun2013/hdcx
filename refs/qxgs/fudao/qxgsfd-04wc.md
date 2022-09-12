@@ -2,6 +2,11 @@
 title: "04寿命无常"
 ---
 
+
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
 前行广释辅导之 寿命无常
 
 本稿仅为方便内部学习所用，非正式文稿，仅供参考！

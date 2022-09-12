@@ -5,6 +5,9 @@ title: "07解脱利益 依止上师"
 ---
 
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
 
 ## 《前行广释》第73课辅导资料
 

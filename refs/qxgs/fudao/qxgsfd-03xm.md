@@ -2,6 +2,10 @@
 title: "03暇满难得"
 ---
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
 # 前行广释辅导之 暇满难得
 
 本稿仅为方便内部学习所用，非正式文稿，仅供参考！

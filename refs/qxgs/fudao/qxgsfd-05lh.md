@@ -2,6 +2,10 @@
 title: "05轮回痛苦"
 ---
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
 # 总体思维
 
 前行广释辅导之 轮回痛苦

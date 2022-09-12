@@ -2,6 +2,10 @@
 title: "11积累资粮"
 ---
 
+import TOCInline from '@theme/TOCInline';
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+
 ## 《前行广释》第119课辅导资料
 
 诸法等性本基法界中，自现圆满三身游舞力，
