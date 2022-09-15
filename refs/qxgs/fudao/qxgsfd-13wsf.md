@@ -3,6 +3,7 @@ title: "13往生法"
 ---
 
 import TOCInline from '@theme/TOCInline';
+
 <TOCInline toc={toc} maxHeadingLevel='6' />
 
 
