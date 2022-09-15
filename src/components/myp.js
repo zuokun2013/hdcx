@@ -4,15 +4,15 @@ export default class MyPara extends React.Component {
 
     componentDidMount() {
         // Changing the state after 3 sec
-        console.log('document ready  is called');
+        console.log('componentDidMount document ready  is called');
         const myarticle = document.getElementsByTagName("article")[0]
-        console.log(myarticle);
+        // console.log(myarticle);
         var line = 1;
         const nodes = myarticle.getElementsByTagName("p");
-        console.log(nodes);
+        // console.log(nodes);
         for (const element of nodes) {
             //    nodes.forEach(element => {
-            console.log('p' + line + ' ' + element.innerText);
+            // console.log('p' + line + ' ' + element.innerText);
             var hrefNode = createElementFromHTML("<a name='p" +
                 line +
                 "' href='#p" +
@@ -23,9 +23,14 @@ export default class MyPara extends React.Component {
             element.prepend(hrefNode);
             line++;
         };
+        if (window.location.hash) {
+            window.location = window.location.href;
+        }
+
     }
     render() {
-        console.log('MyPara component is called');
+        console.log('MyPara component render is called');
+
         return (
             <div>
 
