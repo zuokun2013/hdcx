@@ -1,5 +1,6 @@
 ---
 title: "前世今生论"
+sidebar_position: 21
 ---
 import TOCInline from '@theme/TOCInline';
 
