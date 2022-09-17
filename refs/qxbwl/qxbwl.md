@@ -1,5 +1,15 @@
 # 前行备忘录
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 堪布阿琼仁波切 著
 
 索达吉堪布 译
