@@ -2,6 +2,17 @@
 title: "02闻法方式"
 ---
 
+
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 ## 第三节课
 
 此大圆满龙钦宁提内外前行，是华智仁波切长期依止如来芽尊者听受二十五次之后，依照上师口传而记录下来的。其中内容非常丰富，具有殊胜的传承加持力。

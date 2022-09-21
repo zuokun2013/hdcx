@@ -2,6 +2,16 @@
 title: "07解脱利益 依止上师"
 ---
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 ## 第七十三节课
 
 《前行》已经讲了人身难得、寿命无常、轮回过患、因果不虚，下面讲第五个共同加行：

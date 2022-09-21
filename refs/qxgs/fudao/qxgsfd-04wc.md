@@ -7,6 +7,12 @@ import TOCInline from '@theme/TOCInline';
 
 <TOCInline toc={toc} maxHeadingLevel='6' />
 
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 前行广释辅导之 寿命无常
 
 本稿仅为方便内部学习所用，非正式文稿，仅供参考！

@@ -2,6 +2,16 @@
 title: "08皈依"
 ---
 
+
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
 ## 第八十四节课
 
 下面学习《大圆满前行》中的不共加行。

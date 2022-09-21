@@ -2,6 +2,17 @@
 title: "11积累资粮"
 ---
 
+
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 ## 第一百一十九节课
 
 不共加行中，百字明已经讲完了。今天讲第四个——曼茶罗的修法。

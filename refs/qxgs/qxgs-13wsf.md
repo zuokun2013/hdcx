@@ -2,6 +2,17 @@
 title: "13往生法"
 ---
 
+
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 ## 第一百三十八节课
 
 往生法

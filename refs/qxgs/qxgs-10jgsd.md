@@ -2,6 +2,17 @@
 title: "10念修金刚萨埵"
 ---
 
+
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 ## 第一百一十四节课
 
 ## ——百字明之具体修法

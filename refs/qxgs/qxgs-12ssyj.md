@@ -2,6 +2,17 @@
 title: "12上师瑜伽"
 ---
 
+
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 ## 第一百二十六节课
 
 《大圆满前行》中，人身难得、寿命无常、轮回过患、因果不虚、解脱利益、依止上师，这些共同加行已经讲完了；不共加行中，皈依、发心、修金刚萨埵、积累资粮也讲完了。从今天开始，讲上师瑜伽。

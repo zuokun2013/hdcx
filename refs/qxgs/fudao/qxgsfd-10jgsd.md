@@ -7,6 +7,12 @@ import TOCInline from '@theme/TOCInline';
 
 <TOCInline toc={toc} maxHeadingLevel='6' />
 
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 ## 《前行广释》第114课辅导资料
 
 诸法等性本基法界中，自现圆满三身游舞力，

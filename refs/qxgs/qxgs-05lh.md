@@ -2,6 +2,17 @@
 title: "05轮回痛苦"
 ---
 
+
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 前行广释之 轮回过患
 
 ## 第四十节课

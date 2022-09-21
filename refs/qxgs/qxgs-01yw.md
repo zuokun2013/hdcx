@@ -2,6 +2,17 @@
 title: "01引文"
 ---
 
+
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 ## 第一节课
 
 祈祷释迦牟尼佛

@@ -6,6 +6,12 @@ import TOCInline from '@theme/TOCInline';
 
 <TOCInline toc={toc} maxHeadingLevel='6' />
 
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 ## 《前行广释》第3课笔录
 
 为度化一切众生，请大家发无上的菩提心！发了菩提心之后，今天我们再一次一起学习大圆满龙钦宁提前行引导文。

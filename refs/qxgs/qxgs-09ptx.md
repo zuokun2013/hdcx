@@ -2,6 +2,17 @@
 title: "09发殊胜菩提心"
 ---
 
+
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 ## 第九十一节课
 
 ## ——发心之具体修法

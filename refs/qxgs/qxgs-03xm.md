@@ -2,6 +2,17 @@
 title: "03暇满难得"
 ---
 
+
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 ## 前行广释之 暇满难得
 
 ## 第十四节课

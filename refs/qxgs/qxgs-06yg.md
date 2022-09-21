@@ -2,6 +2,17 @@
 title: "06因果不虚"
 ---
 
+
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 前行广释之 因果不虚
 
 ## 第五十九节课

@@ -9,6 +9,12 @@ import TOCInline from '@theme/TOCInline';
 
 <TOCInline toc={toc} maxHeadingLevel='6' />
 
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 ## 《前行广释》第73课辅导资料
 
 为度化一切众生请大家发无上的菩提心！发了菩提心之后今天我们继续一起学习《前行引导文》。
