@@ -3,6 +3,17 @@ title: "佛说稻杆经视频07"
 date: 2020-12-14T17:26:13-08:00
 draft: false
 ---
+
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 佛说稻杆经视频7
 
 首先请大家发菩提心。我们每一天都是一样，听课的时候要给大家提醒：大家发菩提心。这个就是说明这个菩提心是非常非常重要的。如果没有菩提心，我们所做的一切——闻思修，以及其他的所有的这些，包括烧香、拜佛、持咒等等，这一切就根本不是大乘佛教。根本就没有办法成为大乘佛教，所以这个菩提心是非常重要。

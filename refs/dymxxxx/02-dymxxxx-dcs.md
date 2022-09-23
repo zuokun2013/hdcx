@@ -4,7 +4,17 @@ position: 20
 draft: false
 ---
 
-## 大圆满心性休息大车疏
+# 大圆满心性休息大车疏
+
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
 
 | 全知无垢光尊者 著 |
 | ----------------- |

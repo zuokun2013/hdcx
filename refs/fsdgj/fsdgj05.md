@@ -4,6 +4,16 @@ date: 2020-12-14T17:26:13-08:00
 draft: false
 ---
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 佛说稻秆经视频 5
 
 首先请大家发菩提心。我们为了利益天下所有的众生，下定决心要成佛。为了成佛，学《佛说稻杆经》、缘起法。菩提心，我们每天都要提醒大家发菩提心。就是因为这个菩提心是非常的重要，所以我们经常讲，经常要提醒大家发菩提心，鼓励大家发菩提心。这个确实是非常非常重要。希望大家高度重视菩提心。接下来我们讲今天的课。

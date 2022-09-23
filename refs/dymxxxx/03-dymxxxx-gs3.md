@@ -4,6 +4,16 @@ position: 50
 draft: false
 ---
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 ## 第七品 四无量心
 
 ## 第四十三课

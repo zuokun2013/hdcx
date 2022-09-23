@@ -6,6 +6,17 @@ draft: false
 
 
 # 大圆满心性休息颂(前八品)
+
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 大圆满心性休息颂（显宗部分）
 大圆满心性休息
 
@@ -2080,5 +2091,3 @@ draft: false
 资粮贫乏可怜众，疲劳心性今休息。
 
 第八品终
-
-

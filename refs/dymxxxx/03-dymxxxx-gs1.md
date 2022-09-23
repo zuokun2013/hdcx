@@ -4,7 +4,17 @@ position: 30
 draft: false
 ---
 
-《大圆满心性休息》讲记
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
+《大圆满心性休息》讲记  
 全知无垢光尊者 著索达吉堪布 译讲
 
 顶礼本师释迦牟尼佛：

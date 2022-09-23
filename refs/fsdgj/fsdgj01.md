@@ -4,6 +4,16 @@ date: 2020-12-14T17:26:13-08:00
 draft: false
 ---
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 佛说稻秆经视频 1
 
  我們講今天的課的內容，我們今天準備講一部佛經，這部佛經，我們不會一個字一個字的解釋，我們要講它的這些重點，這部佛經叫作《佛說稻稈經》，那麼我們為什麼要講這部經呢，這個佛經裡面就講了佛教的非常非常重要的一個思想，就是佛教的人生觀——十二緣起；還有就是佛教的世界觀，外在的因緣，就講這兩個。

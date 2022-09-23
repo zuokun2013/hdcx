@@ -4,6 +4,16 @@ date: 2020-12-14T17:26:13-08:00
 draft: false
 ---
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 佛说稻秆经视频3
 
 首先请大家发菩提心。我们为了度化一切众生，下定决心要成佛。为了成佛，我们今天来学习这个佛经。学习好了以后，就去思考，然后去修行。这样子的话，总有一天就可以成佛。成了佛以后，就可以度化众生。以这样子的目标，以这样子的发心来听这个课。这个非常重要，这叫作发菩提心。

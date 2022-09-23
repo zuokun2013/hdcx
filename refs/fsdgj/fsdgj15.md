@@ -4,6 +4,16 @@ date: 2020-12-14T17:26:13-08:00
 draft: false
 ---
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 佛说稻秆经视频15
 
 首先请大家发菩提心。我们今天听这个课的目的，就是为了让天下所有众生离苦得乐。为了做大这件事，我们下定决心要成佛，成佛不是一年两年这样的时间，这个可能需要比较长一点的时间。但是不管需要多长时间，我们一定要成佛，这样子下定决心。为了成佛，我们今天来听《佛说稻秆经》十二缘起的修法，这样子发菩提心。
