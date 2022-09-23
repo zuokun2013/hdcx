@@ -1,5 +1,15 @@
 # 入行论辅导第8品(111-152)
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 ## 《入菩萨行论》第111节课
 
 发了菩提心之后，我们一起学习寂天菩萨所造的《入菩萨行论》。前面已经学完了前七品的内容，今天开始学习第八品——静虑。

@@ -1,5 +1,15 @@
 # 入行论辅导第7品(95-110)
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 ## 《入菩萨行论》第95节课
 
 下面学习寂天菩萨所造的《入菩萨行论》。本论分了十品，前面六品我们已经学习圆满了，今天开始学习第七品——精进。精进品宣讲了，作为修学的佛弟子，在修持菩提心、行菩萨道、累积善法、忏悔罪障等方面都需要精进。

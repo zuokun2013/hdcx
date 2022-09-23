@@ -1,5 +1,15 @@
 # 入行论辅导第5品(47-69)
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 ## 《入菩萨行论》第47节课
 
 今天继续学习寂天菩萨所造的《入菩萨行论》，这部论典是引导初学者及学习大乘佛法的人趣向菩萨道的殊胜修法。即便没有接触和深入学过大乘佛法的教义，但如果能够认真学习这部殊胜论典，就可以把我们的心改造成菩萨的心，并能救护轮回中的一切众生。

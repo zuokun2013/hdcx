@@ -1,5 +1,15 @@
 # 入行论辅导第3品(36-46)
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 ## 《入菩萨行论》第36节课
 
 下面宣讲第四品不放逸：

@@ -1,5 +1,15 @@
 # 入行论辅导第2品(15-28)
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 ## 《入菩萨行论》第15节课
 
 今天继续学习寂天菩萨所造的《入菩萨行论》。《入菩萨行论》是帮助有情在相续中生起菩提心的殊胜方便，未生菩提心令生起，已生菩提心令增上。这部论典对于学习大乘佛法的后学者相当殊胜。

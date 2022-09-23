@@ -1,5 +1,15 @@
 # 入行论辅导第9品(153-190)
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} maxHeadingLevel='6' />
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 ## 《入菩萨行论》第153节课
 
 发了菩提心之后，今天我们再一起学习寂天菩萨所造的《入菩萨行论》。按照华智仁波切的讲法，前面的九品是分了三个部分或者阶段：第一、二、三品是未生令生起，第四、五、六品是已生令不退，第七、八、九品，是不退而增上。现在我们学习的是第三部分——不退而增上。
