@@ -15,9 +15,10 @@ import Mypara from '@site/src/components/myp';
 
 ## 第一节课
 
-- [《大圆满前行》讲解第1课.mp4](http://huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第1课.mp4)
+###### [《大圆满前行》讲解第1课.mp4 - 视频](http://huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第1课.mp4)
 
-- [《大圆满前行》讲解第1课.mp3](http://huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第1课.mp3)
+###### [《大圆满前行》讲解第1课.mp3 - 音频](http://huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第1课.mp3)
+
 
 祈祷释迦牟尼佛
 
@@ -212,9 +213,9 @@ import Mypara from '@site/src/components/myp';
 
 ## 第二节课
 
-- [《大圆满前行》讲解第2课.mp4](http://huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第2课.mp4)
+###### [《大圆满前行》讲解第2课.mp4 - 视频](http://huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第2课.mp4)
 
-- [《大圆满前行》讲解第2课.mp3](http://huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第2课.mp3)
+###### [《大圆满前行》讲解第2课.mp3 - 音频](http://huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第2课.mp3)
 
 学习《大圆满前行》之初，首先讲对传承上师的顶礼句。昨天华智仁波切顶礼了三大传承上师、无垢光尊者、智悲光尊者，今天开始顶礼他唯一的根本上师——如来芽尊者。
 
