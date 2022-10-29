@@ -6,6 +6,21 @@ draft: false
 
 # 前行备忘录--无常实修引导
 
+
+
+import TOCInline from '@theme/TOCInline';
+
+<details>
+<summary>目录</summary>
+<TOCInline toc={toc} maxHeadingLevel='6' />
+</details>
+
+import Mypara from '@site/src/components/myp';
+
+<Mypara />
+
+---
+
 **二、寿命无常**
 
 认识到暇满的难得、义大后，就发起了取心要欲，想以此人身摄取真实大义。但是，以延缓摄取不到心要，会被死无常他自在转的缘故，因此要修无常。意思是，透过修无常，认识到暇满人身会很快没有，因此要及时修法。更迫切地看到，无常今天就会降临，不得不马上舍离此世，因此现在就要修法。时时以念死无常驱使心急切地修法，才能摄取到心要。因此，下面分七项思维寿命无常。
