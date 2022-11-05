@@ -1,32 +1,19 @@
 # 系列三.大圆满龙钦宁体前行引导文.普贤上师言教讲记二-暇满难得
 
+
 import TOCInline from '@theme/TOCInline';
 
+<details>
+<summary>目录</summary>
 <TOCInline toc={toc} maxHeadingLevel='6' />
+</details>
 
 import Mypara from '@site/src/components/myp';
 
 <Mypara />
 
-免费结缘，非卖品，
+---
 
-禁止用作任何商业用途。
-
-大圆满龙钦宁体前行引导文原文 1
-
-大圆满龙钦宁体前行引导文讲记 21
-
-丁一 思维体性之闲暇 26
-
-丁二 思维差别之圆满 75
-
-戊一 五自圆满 75
-
-戊二 五他圆满 117
-
-丁三 思维难得之譬喻 310
-
-丁四 思维数量之差别 317
 
 ## 大圆满龙钦宁体前行引导文原文
 

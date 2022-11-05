@@ -1,12 +1,18 @@
 # 系列四.祖师心髓1-法海奇珍
 
+
 import TOCInline from '@theme/TOCInline';
 
+<details>
+<summary>目录</summary>
 <TOCInline toc={toc} maxHeadingLevel='6' />
+</details>
 
 import Mypara from '@site/src/components/myp';
 
 <Mypara />
+
+---
 
 法海奇珍
 

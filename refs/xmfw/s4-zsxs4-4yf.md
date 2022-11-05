@@ -1,12 +1,18 @@
 # 系列四.祖师心髓4-四依法讲记
 
+
 import TOCInline from '@theme/TOCInline';
 
+<details>
+<summary>目录</summary>
 <TOCInline toc={toc} maxHeadingLevel='6' />
+</details>
 
 import Mypara from '@site/src/components/myp';
 
 <Mypara />
+
+---
 
 四依法讲记
 

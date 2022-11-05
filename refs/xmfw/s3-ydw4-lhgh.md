@@ -1,12 +1,18 @@
 # 系列三.大圆满龙钦宁体前行引导文.普贤上师言教讲记四-轮回过患
 
+
 import TOCInline from '@theme/TOCInline';
 
+<details>
+<summary>目录</summary>
 <TOCInline toc={toc} maxHeadingLevel='6' />
+</details>
 
 import Mypara from '@site/src/components/myp';
 
 <Mypara />
+
+---
 
 第三 思维轮回过患
 

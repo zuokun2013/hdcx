@@ -1,12 +1,18 @@
 # 系列四.祖师心髓6-般若摄颂回向大义
 
+
 import TOCInline from '@theme/TOCInline';
 
+<details>
+<summary>目录</summary>
 <TOCInline toc={toc} maxHeadingLevel='6' />
+</details>
 
 import Mypara from '@site/src/components/myp';
 
 <Mypara />
+
+---
 
 第四、令彼般若之自性在相续中生起分二：一、后得中作业；二、定中修持。
 

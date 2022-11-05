@@ -1,12 +1,18 @@
 # 系列四.祖师心髓5-前行备忘录.暇满难得
 
+
 import TOCInline from '@theme/TOCInline';
 
+<details>
+<summary>目录</summary>
 <TOCInline toc={toc} maxHeadingLevel='6' />
+</details>
 
 import Mypara from '@site/src/components/myp';
 
 <Mypara />
+
+---
 
 免费结缘，非卖品，
 

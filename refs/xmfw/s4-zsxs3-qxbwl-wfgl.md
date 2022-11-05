@@ -1,12 +1,18 @@
 # 系列四.祖师心髓3-前行备忘录.闻法轨理
 
+
 import TOCInline from '@theme/TOCInline';
 
+<details>
+<summary>目录</summary>
 <TOCInline toc={toc} maxHeadingLevel='6' />
+</details>
 
 import Mypara from '@site/src/components/myp';
 
 <Mypara />
+
+---
 
 大圆满龙钦宁体前行备忘录
 

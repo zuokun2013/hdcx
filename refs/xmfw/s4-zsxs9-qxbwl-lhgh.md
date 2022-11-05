@@ -1,12 +1,18 @@
 # 系列四.祖师心髓9-前行备忘录.轮回过患
 
+
 import TOCInline from '@theme/TOCInline';
 
+<details>
+<summary>目录</summary>
 <TOCInline toc={toc} maxHeadingLevel='6' />
+</details>
 
 import Mypara from '@site/src/components/myp';
 
 <Mypara />
+
+---
 
 三、思惟轮回过患　分二：一、引入；二、正明。
 
