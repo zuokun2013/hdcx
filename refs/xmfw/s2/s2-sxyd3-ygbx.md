@@ -1,3 +1,8 @@
+---
+sidebar_position: 4
+sidebar_label: 实修引导讲记四.业果不虚
+---
+
 # 系列二.大圆满龙钦宁提前行实修引导讲记三.业果不虚
 
 import TOCInline from '@theme/TOCInline';

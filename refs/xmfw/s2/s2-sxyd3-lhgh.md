@@ -1,3 +1,8 @@
+---
+sidebar_position: 3
+sidebar_label: 实修引导讲记三.轮回过患
+---
+
 # 系列二.大圆满龙钦宁提前行实修引导讲记三.轮回过患
 
 import TOCInline from '@theme/TOCInline';
