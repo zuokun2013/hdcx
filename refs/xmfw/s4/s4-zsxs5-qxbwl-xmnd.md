@@ -1,3 +1,8 @@
+---
+sidebar_position: 5
+sidebar_label: 5-前行备忘录.暇满难得
+---
+
 # 系列四.祖师心髓5-前行备忘录.暇满难得
 
 

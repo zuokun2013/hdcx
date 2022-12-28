@@ -1,3 +1,8 @@
+---
+sidebar_position: 9
+sidebar_label: 9-前行备忘录.轮回过患
+---
+
 # 系列四.祖师心髓9-前行备忘录.轮回过患
 
 

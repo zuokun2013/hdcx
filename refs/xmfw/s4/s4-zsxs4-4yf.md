@@ -1,3 +1,8 @@
+---
+sidebar_position: 4
+sidebar_label: 4-四依法讲记
+---
+
 # 系列四.祖师心髓4-四依法讲记
 
 

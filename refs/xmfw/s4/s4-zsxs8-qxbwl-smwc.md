@@ -1,3 +1,8 @@
+---
+sidebar_position: 8
+sidebar_label: 8-前行备忘录.寿命无常
+---
+
 # 系列四.祖师心髓8-前行备忘录.寿命无常
 
 

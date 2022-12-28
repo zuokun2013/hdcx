@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+sidebar_label: 1-法海奇珍
+---
+
 # 系列四.祖师心髓1-法海奇珍
 
 
@@ -11,6 +16,8 @@ import TOCInline from '@theme/TOCInline';
 import Mypara from '@site/src/components/myp';
 
 <Mypara />
+
+---
 
 ---
 

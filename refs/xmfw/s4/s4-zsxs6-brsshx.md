@@ -1,3 +1,8 @@
+---
+sidebar_position: 6
+sidebar_label: 6-般若摄颂回向大义
+---
+
 # 系列四.祖师心髓6-般若摄颂回向大义
 
 

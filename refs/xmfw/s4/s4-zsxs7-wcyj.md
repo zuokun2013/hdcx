@@ -1,3 +1,8 @@
+---
+sidebar_position: 7
+sidebar_label: 7-无常要诀讲记
+---
+
 # 系列四.祖师心髓7-无常要诀讲记
 
 

@@ -1,3 +1,8 @@
+---
+sidebar_position: 3
+sidebar_label: 3-前行备忘录.闻法轨理
+---
+
 # 系列四.祖师心髓3-前行备忘录.闻法轨理
 
 
