@@ -1,13 +1,23 @@
+---
+sidebar_position: 1
+sidebar_label: 前行引导文一· 听闻轨理
+---
 
 # 系列三.大圆满龙钦宁体前行引导文.普贤上师言教讲记一-听闻轨理
 
+
 import TOCInline from '@theme/TOCInline';
 
+<details>
+<summary>目录</summary>
 <TOCInline toc={toc} maxHeadingLevel='6' />
+</details>
 
 import Mypara from '@site/src/components/myp';
 
 <Mypara />
+
+---
 
 大圆满龙钦心髓前行引导文讲记
 
