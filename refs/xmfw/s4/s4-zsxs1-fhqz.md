@@ -17,6 +17,15 @@ import Mypara from '@site/src/components/myp';
 
 <Mypara />
 
+---
+
+| 课时 | 文档 | 音频 | 视频 |
+| --- | --- | --- | --- |
+| 1 |  [《法海奇珍》第1讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e6%b3%95%e6%b5%b7%e5%a5%87%e7%8f%8d%e3%80%8b%e7%ac%ac1%e8%ae%b2.docx) |  [《法海奇珍》第1讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e6%b3%95%e6%b5%b7%e5%a5%87%e7%8f%8d%e3%80%8b%e7%ac%ac1%e8%ae%b2.mp3) |  |
+| 2 |  [《法海奇珍》第2讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e6%b3%95%e6%b5%b7%e5%a5%87%e7%8f%8d%e3%80%8b%e7%ac%ac2%e8%ae%b2.docx) |  [《法海奇珍》第2讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e6%b3%95%e6%b5%b7%e5%a5%87%e7%8f%8d%e3%80%8b%e7%ac%ac2%e8%ae%b2.mp3) |  |
+| 3 |  [《法海奇珍》第3讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e6%b3%95%e6%b5%b7%e5%a5%87%e7%8f%8d%e3%80%8b%e7%ac%ac3%e8%ae%b2.docx) |  [《法海奇珍》第3讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e6%b3%95%e6%b5%b7%e5%a5%87%e7%8f%8d%e3%80%8b%e7%ac%ac3%e8%ae%b2.mp3) |  |
+| 4 |  [《法海奇珍》第4讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e6%b3%95%e6%b5%b7%e5%a5%87%e7%8f%8d%e3%80%8b%e7%ac%ac4%e8%ae%b2.docx) |  [《法海奇珍》第4讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e6%b3%95%e6%b5%b7%e5%a5%87%e7%8f%8d%e3%80%8b%e7%ac%ac4%e8%ae%b2.mp3) |  |
+| 5 |  [《法海奇珍》第5讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e6%b3%95%e6%b5%b7%e5%a5%87%e7%8f%8d%e3%80%8b%e7%ac%ac5%e8%ae%b2.docx) |  [《法海奇珍》第5讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e6%b3%95%e6%b5%b7%e5%a5%87%e7%8f%8d%e3%80%8b%e7%ac%ac5%e8%ae%b2.mp3) |  |
 
 ---
 
