@@ -19,6 +19,19 @@ import Mypara from '@site/src/components/myp';
 
 ---
 
+| 课时 | 文档 | 音频 | 视频 |
+| --- | --- | --- | --- |
+| 1 |  [前行备忘录·轮回过患实修引导01.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e8%bd%ae%e5%9b%9e%e8%bf%87%e6%82%a3%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc01.docx) |  [前行备忘录·轮回过患实修引导01.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e8%bd%ae%e5%9b%9e%e8%bf%87%e6%82%a3%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc01.mp3) |  |
+| 2 |  [前行备忘录·轮回过患实修引导02.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e8%bd%ae%e5%9b%9e%e8%bf%87%e6%82%a3%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc02.docx) |  [前行备忘录·轮回过患实修引导02.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e8%bd%ae%e5%9b%9e%e8%bf%87%e6%82%a3%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc02.mp3) |  |
+| 3 |  [前行备忘录·轮回过患实修引导03.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e8%bd%ae%e5%9b%9e%e8%bf%87%e6%82%a3%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc03.docx) |  [前行备忘录·轮回过患实修引导03.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e8%bd%ae%e5%9b%9e%e8%bf%87%e6%82%a3%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc03.mp3) |  |
+| 4 |  [前行备忘录·轮回过患实修引导04.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e8%bd%ae%e5%9b%9e%e8%bf%87%e6%82%a3%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc04.docx) |  [前行备忘录·轮回过患实修引导04.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e8%bd%ae%e5%9b%9e%e8%bf%87%e6%82%a3%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc04.mp3) |  |
+| 5 |  [前行备忘录·轮回过患实修引导05.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e8%bd%ae%e5%9b%9e%e8%bf%87%e6%82%a3%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc05.docx) |  [前行备忘录·轮回过患实修引导05.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e8%bd%ae%e5%9b%9e%e8%bf%87%e6%82%a3%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc05.mp3) |  |
+| 6 |  [前行备忘录·轮回过患实修引导06.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e8%bd%ae%e5%9b%9e%e8%bf%87%e6%82%a3%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc06.docx) |  [前行备忘录·轮回过患实修引导06.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e8%bd%ae%e5%9b%9e%e8%bf%87%e6%82%a3%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc06.mp3) |  |
+| 7 |  [前行备忘录·轮回过患实修引导07.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e8%bd%ae%e5%9b%9e%e8%bf%87%e6%82%a3%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc07.docx) |  [前行备忘录·轮回过患实修引导07.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e8%bd%ae%e5%9b%9e%e8%bf%87%e6%82%a3%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc07.mp3) |  |
+| 8 |  [前行备忘录·轮回过患实修引导08.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e8%bd%ae%e5%9b%9e%e8%bf%87%e6%82%a3%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc08.docx) |  [前行备忘录·轮回过患实修引导08.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e8%bd%ae%e5%9b%9e%e8%bf%87%e6%82%a3%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc08.mp3) |  |
+
+---
+
 ## 01
 
 三、思惟轮回过患　分二：一、引入；二、正明。
