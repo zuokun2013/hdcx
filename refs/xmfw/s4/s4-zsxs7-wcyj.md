@@ -19,6 +19,14 @@ import Mypara from '@site/src/components/myp';
 
 ---
 
+| 课时 | 文档 | 音频 | 视频 |
+| --- | --- | --- | --- |
+| 1 |  [《无常要诀讲记》第1讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e6%97%a0%e5%b8%b8%e8%a6%81%e8%af%80%e8%ae%b2%e8%ae%b0%e3%80%8b%e7%ac%ac1%e8%ae%b2.docx) |  [《无常要诀讲记》第1讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e6%97%a0%e5%b8%b8%e8%a6%81%e8%af%80%e8%ae%b2%e8%ae%b0%e3%80%8b%e7%ac%ac1%e8%ae%b2.mp3) |  [《无常要诀讲记》第1讲.mp4](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e6%97%a0%e5%b8%b8%e8%a6%81%e8%af%80%e8%ae%b2%e8%ae%b0%e3%80%8b%e7%ac%ac1%e8%ae%b2.mp4) |
+| 2 |  [《无常要诀讲记》第2讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e6%97%a0%e5%b8%b8%e8%a6%81%e8%af%80%e8%ae%b2%e8%ae%b0%e3%80%8b%e7%ac%ac2%e8%ae%b2.docx) |  [《无常要诀讲记》第2讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e6%97%a0%e5%b8%b8%e8%a6%81%e8%af%80%e8%ae%b2%e8%ae%b0%e3%80%8b%e7%ac%ac2%e8%ae%b2.mp3) |  [《无常要诀讲记》第2讲.mp4](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e6%97%a0%e5%b8%b8%e8%a6%81%e8%af%80%e8%ae%b2%e8%ae%b0%e3%80%8b%e7%ac%ac2%e8%ae%b2.mp4) |
+| 3 |  [《无常要诀讲记》第3讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e6%97%a0%e5%b8%b8%e8%a6%81%e8%af%80%e8%ae%b2%e8%ae%b0%e3%80%8b%e7%ac%ac3%e8%ae%b2.docx) |  [《无常要诀讲记》第3讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e6%97%a0%e5%b8%b8%e8%a6%81%e8%af%80%e8%ae%b2%e8%ae%b0%e3%80%8b%e7%ac%ac3%e8%ae%b2.mp3) |  [《无常要诀讲记》第3讲.mp4](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e6%97%a0%e5%b8%b8%e8%a6%81%e8%af%80%e8%ae%b2%e8%ae%b0%e3%80%8b%e7%ac%ac3%e8%ae%b2.mp4) |
+
+---
+
 ## 01
 
 无常要诀讲记
