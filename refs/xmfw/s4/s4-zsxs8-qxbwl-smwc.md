@@ -19,6 +19,19 @@ import Mypara from '@site/src/components/myp';
 
 ---
 
+| 课时 | 文档 | 音频 | 视频 |
+| --- | --- | --- | --- |
+| 1 |  [《前行备忘录·无常实修引导》第1讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e6%97%a0%e5%b8%b8%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e3%80%8b%e7%ac%ac1%e8%ae%b2.docx) |  [《前行备忘录·无常实修引导》第1讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e6%97%a0%e5%b8%b8%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e3%80%8b%e7%ac%ac1%e8%ae%b2.mp3) |  |
+| 2 |  [《前行备忘录·无常实修引导》第2讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e6%97%a0%e5%b8%b8%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e3%80%8b%e7%ac%ac2%e8%ae%b2.docx) |  [《前行备忘录·无常实修引导》第2讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e6%97%a0%e5%b8%b8%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e3%80%8b%e7%ac%ac2%e8%ae%b2.mp3) |  |
+| 3 |  [《前行备忘录·无常实修引导》第3讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e6%97%a0%e5%b8%b8%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e3%80%8b%e7%ac%ac3%e8%ae%b2.docx) |  [《前行备忘录·无常实修引导》第3讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e6%97%a0%e5%b8%b8%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e3%80%8b%e7%ac%ac3%e8%ae%b2.mp3) |  |
+| 4 |  [《前行备忘录·无常实修引导》第4讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e6%97%a0%e5%b8%b8%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e3%80%8b%e7%ac%ac4%e8%ae%b2.docx) |  [《前行备忘录·无常实修引导》第4讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e6%97%a0%e5%b8%b8%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e3%80%8b%e7%ac%ac4%e8%ae%b2.mp3) |  |
+| 5 |  [《前行备忘录·无常实修引导》第5讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e6%97%a0%e5%b8%b8%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e3%80%8b%e7%ac%ac5%e8%ae%b2.docx) |  [《前行备忘录·无常实修引导》第5讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e6%97%a0%e5%b8%b8%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e3%80%8b%e7%ac%ac5%e8%ae%b2.mp3) |  |
+| 6 |  [《前行备忘录·无常实修引导》第6讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e6%97%a0%e5%b8%b8%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e3%80%8b%e7%ac%ac6%e8%ae%b2.docx) |  [《前行备忘录·无常实修引导》第6讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e6%97%a0%e5%b8%b8%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e3%80%8b%e7%ac%ac6%e8%ae%b2.mp3) |  |
+| 7 |  [《前行备忘录·无常实修引导》第7讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e6%97%a0%e5%b8%b8%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e3%80%8b%e7%ac%ac7%e8%ae%b2.docx) |  [《前行备忘录·无常实修引导》第7讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95%c2%b7%e6%97%a0%e5%b8%b8%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e3%80%8b%e7%ac%ac7%e8%ae%b2.mp3) |  |
+
+---
+
+
 ## 01
 
 **二、寿命无常**
