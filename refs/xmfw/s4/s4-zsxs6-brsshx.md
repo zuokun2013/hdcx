@@ -19,6 +19,20 @@ import Mypara from '@site/src/components/myp';
 
 ---
 
+| 课时 | 文档 | 音频 | 视频 |
+| --- | --- | --- | --- |
+| 1 |  [《般若摄颂回向大义》第1讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e8%88%ac%e8%8b%a5%e6%91%84%e9%a2%82%e5%9b%9e%e5%90%91%e5%a4%a7%e4%b9%89%e3%80%8b%e7%ac%ac1%e8%ae%b2.docx) |  [《般若摄颂回向大义》第1讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e8%88%ac%e8%8b%a5%e6%91%84%e9%a2%82%e5%9b%9e%e5%90%91%e5%a4%a7%e4%b9%89%e3%80%8b%e7%ac%ac1%e8%ae%b2.mp3) |  |
+| 2 |  [《般若摄颂回向大义》第2讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e8%88%ac%e8%8b%a5%e6%91%84%e9%a2%82%e5%9b%9e%e5%90%91%e5%a4%a7%e4%b9%89%e3%80%8b%e7%ac%ac2%e8%ae%b2.docx) |  [《般若摄颂回向大义》第2讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e8%88%ac%e8%8b%a5%e6%91%84%e9%a2%82%e5%9b%9e%e5%90%91%e5%a4%a7%e4%b9%89%e3%80%8b%e7%ac%ac2%e8%ae%b2.mp3) |  |
+| 3 |  [《般若摄颂回向大义》第3讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e8%88%ac%e8%8b%a5%e6%91%84%e9%a2%82%e5%9b%9e%e5%90%91%e5%a4%a7%e4%b9%89%e3%80%8b%e7%ac%ac3%e8%ae%b2.docx) |  [《般若摄颂回向大义》第3讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e8%88%ac%e8%8b%a5%e6%91%84%e9%a2%82%e5%9b%9e%e5%90%91%e5%a4%a7%e4%b9%89%e3%80%8b%e7%ac%ac3%e8%ae%b2.mp3) |  |
+| 4 |  [《般若摄颂回向大义》第4讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e8%88%ac%e8%8b%a5%e6%91%84%e9%a2%82%e5%9b%9e%e5%90%91%e5%a4%a7%e4%b9%89%e3%80%8b%e7%ac%ac4%e8%ae%b2.docx) |  [《般若摄颂回向大义》第4讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e8%88%ac%e8%8b%a5%e6%91%84%e9%a2%82%e5%9b%9e%e5%90%91%e5%a4%a7%e4%b9%89%e3%80%8b%e7%ac%ac4%e8%ae%b2.mp3) |  |
+| 5 |  [《般若摄颂回向大义》第5讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e8%88%ac%e8%8b%a5%e6%91%84%e9%a2%82%e5%9b%9e%e5%90%91%e5%a4%a7%e4%b9%89%e3%80%8b%e7%ac%ac5%e8%ae%b2.docx) |  [《般若摄颂回向大义》第5讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e8%88%ac%e8%8b%a5%e6%91%84%e9%a2%82%e5%9b%9e%e5%90%91%e5%a4%a7%e4%b9%89%e3%80%8b%e7%ac%ac5%e8%ae%b2.mp3) |  |
+| 6 |  [《般若摄颂回向大义》第6讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e8%88%ac%e8%8b%a5%e6%91%84%e9%a2%82%e5%9b%9e%e5%90%91%e5%a4%a7%e4%b9%89%e3%80%8b%e7%ac%ac6%e8%ae%b2.docx) |  [《般若摄颂回向大义》第6讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e8%88%ac%e8%8b%a5%e6%91%84%e9%a2%82%e5%9b%9e%e5%90%91%e5%a4%a7%e4%b9%89%e3%80%8b%e7%ac%ac6%e8%ae%b2.mp3) |  |
+| 7 |  [《般若摄颂回向大义》第7讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e8%88%ac%e8%8b%a5%e6%91%84%e9%a2%82%e5%9b%9e%e5%90%91%e5%a4%a7%e4%b9%89%e3%80%8b%e7%ac%ac7%e8%ae%b2.docx) |  [《般若摄颂回向大义》第7讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e8%88%ac%e8%8b%a5%e6%91%84%e9%a2%82%e5%9b%9e%e5%90%91%e5%a4%a7%e4%b9%89%e3%80%8b%e7%ac%ac7%e8%ae%b2.mp3) |  |
+| 8 |  [《般若摄颂回向大义》第8讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e8%88%ac%e8%8b%a5%e6%91%84%e9%a2%82%e5%9b%9e%e5%90%91%e5%a4%a7%e4%b9%89%e3%80%8b%e7%ac%ac8%e8%ae%b2.docx) |  [《般若摄颂回向大义》第8讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e8%88%ac%e8%8b%a5%e6%91%84%e9%a2%82%e5%9b%9e%e5%90%91%e5%a4%a7%e4%b9%89%e3%80%8b%e7%ac%ac8%e8%ae%b2.mp3) |  |
+| 9 |  [《般若摄颂回向大义》第9讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e8%88%ac%e8%8b%a5%e6%91%84%e9%a2%82%e5%9b%9e%e5%90%91%e5%a4%a7%e4%b9%89%e3%80%8b%e7%ac%ac9%e8%ae%b2.docx) |  [《般若摄颂回向大义》第9讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e8%88%ac%e8%8b%a5%e6%91%84%e9%a2%82%e5%9b%9e%e5%90%91%e5%a4%a7%e4%b9%89%e3%80%8b%e7%ac%ac9%e8%ae%b2.mp3) |  |
+
+---
+
 ## 01
 
 第四、令彼般若之自性在相续中生起分二：一、后得中作业；二、定中修持。
