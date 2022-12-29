@@ -19,6 +19,13 @@ import Mypara from '@site/src/components/myp';
 
 ---
 
+| 课时 | 文档 | 音频 | 视频 |
+| --- | --- | --- | --- |
+| 1 |  [《四依法》第1讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%9b%9b%e4%be%9d%e6%b3%95%e3%80%8b%e7%ac%ac1%e8%ae%b2.docx) |  [《四依法》第1讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%9b%9b%e4%be%9d%e6%b3%95%e3%80%8b%e7%ac%ac1%e8%ae%b2.mp3) |  [《四依法》第1讲.mp4](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%9b%9b%e4%be%9d%e6%b3%95%e3%80%8b%e7%ac%ac1%e8%ae%b2.mp4) |
+| 2 |  [《四依法》第2讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%9b%9b%e4%be%9d%e6%b3%95%e3%80%8b%e7%ac%ac2%e8%ae%b2.docx) |  [《四依法》第2讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%9b%9b%e4%be%9d%e6%b3%95%e3%80%8b%e7%ac%ac2%e8%ae%b2.mp3) |  [《四依法》第2讲.mp4](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%9b%9b%e4%be%9d%e6%b3%95%e3%80%8b%e7%ac%ac2%e8%ae%b2.mp4) |
+
+---
+
 ## 01
 
 四 依
