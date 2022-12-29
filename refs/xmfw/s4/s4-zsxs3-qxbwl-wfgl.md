@@ -19,6 +19,19 @@ import Mypara from '@site/src/components/myp';
 
 ---
 
+| 课时 | 文档 | 音频 | 视频 |
+| --- | --- | --- | --- |
+| 1 |  [《前行备忘录-闻法行为》第1讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95-%e9%97%bb%e6%b3%95%e8%a1%8c%e4%b8%ba%e3%80%8b%e7%ac%ac1%e8%ae%b2.docx) |  [《前行备忘录-闻法行为》第1讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95-%e9%97%bb%e6%b3%95%e8%a1%8c%e4%b8%ba%e3%80%8b%e7%ac%ac1%e8%ae%b2.mp3) |  [《前行备忘录-闻法行为》第1讲.mp4](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95-%e9%97%bb%e6%b3%95%e8%a1%8c%e4%b8%ba%e3%80%8b%e7%ac%ac1%e8%ae%b2.mp4) |
+| 2 |  [《前行备忘录-闻法行为》第2讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95-%e9%97%bb%e6%b3%95%e8%a1%8c%e4%b8%ba%e3%80%8b%e7%ac%ac2%e8%ae%b2.docx) |  [《前行备忘录-闻法行为》第2讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95-%e9%97%bb%e6%b3%95%e8%a1%8c%e4%b8%ba%e3%80%8b%e7%ac%ac2%e8%ae%b2.mp3) |  [《前行备忘录-闻法行为》第2讲.mp4](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95-%e9%97%bb%e6%b3%95%e8%a1%8c%e4%b8%ba%e3%80%8b%e7%ac%ac2%e8%ae%b2.mp4) |
+| 3 |  [《前行备忘录-闻法行为》第3讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95-%e9%97%bb%e6%b3%95%e8%a1%8c%e4%b8%ba%e3%80%8b%e7%ac%ac3%e8%ae%b2.docx) |  [《前行备忘录-闻法行为》第3讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95-%e9%97%bb%e6%b3%95%e8%a1%8c%e4%b8%ba%e3%80%8b%e7%ac%ac3%e8%ae%b2.mp3) |  [《前行备忘录-闻法行为》第3讲.mp4](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95-%e9%97%bb%e6%b3%95%e8%a1%8c%e4%b8%ba%e3%80%8b%e7%ac%ac3%e8%ae%b2.mp4) |
+| 4 |  [《前行备忘录-闻法行为》第4讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95-%e9%97%bb%e6%b3%95%e8%a1%8c%e4%b8%ba%e3%80%8b%e7%ac%ac4%e8%ae%b2.docx) |  [《前行备忘录-闻法行为》第4讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95-%e9%97%bb%e6%b3%95%e8%a1%8c%e4%b8%ba%e3%80%8b%e7%ac%ac4%e8%ae%b2.mp3) |  [《前行备忘录-闻法行为》第4讲.mp4](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95-%e9%97%bb%e6%b3%95%e8%a1%8c%e4%b8%ba%e3%80%8b%e7%ac%ac4%e8%ae%b2.mp4) |
+| 5 |  [《前行备忘录-闻法行为》第5讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95-%e9%97%bb%e6%b3%95%e8%a1%8c%e4%b8%ba%e3%80%8b%e7%ac%ac5%e8%ae%b2.docx) |  [《前行备忘录-闻法行为》第5讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95-%e9%97%bb%e6%b3%95%e8%a1%8c%e4%b8%ba%e3%80%8b%e7%ac%ac5%e8%ae%b2.mp3) |  [《前行备忘录-闻法行为》第5讲.mp4](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95-%e9%97%bb%e6%b3%95%e8%a1%8c%e4%b8%ba%e3%80%8b%e7%ac%ac5%e8%ae%b2.mp4) |
+| 6 |  [《前行备忘录-闻法行为》第6讲.docx](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95-%e9%97%bb%e6%b3%95%e8%a1%8c%e4%b8%ba%e3%80%8b%e7%ac%ac6%e8%ae%b2.docx) |  [《前行备忘录-闻法行为》第6讲.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95-%e9%97%bb%e6%b3%95%e8%a1%8c%e4%b8%ba%e3%80%8b%e7%ac%ac6%e8%ae%b2.mp3) |  [《前行备忘录-闻法行为》第6讲.mp4](https://f.huidengchanxiu.net/jmy/xmfw/s4/%e3%80%8a%e5%89%8d%e8%a1%8c%e5%a4%87%e5%bf%98%e5%bd%95-%e9%97%bb%e6%b3%95%e8%a1%8c%e4%b8%ba%e3%80%8b%e7%ac%ac6%e8%ae%b2.mp4) |
+|  |  |  |  |
+
+---
+
+
 ## 01
 
 二者行为分二：（一）如毒应断之行为；（二）如药应取之行为。
