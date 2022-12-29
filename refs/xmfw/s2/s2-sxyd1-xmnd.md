@@ -18,6 +18,16 @@ import Mypara from '@site/src/components/myp';
 
 ---
 
+| 课时 | 文档 | 音频 | 视频 |
+| --- | --- | --- | --- |
+| 1 |  [前行实修引导之法轨—暇满引导01.docx](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e6%9a%87%e6%bb%a1%e5%bc%95%e5%af%bc01.docx) |  [前行实修引导之法轨—暇满引导01.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e6%9a%87%e6%bb%a1%e5%bc%95%e5%af%bc01.mp3) |  |
+| 2 |  [前行实修引导之法轨—暇满引导02.docx](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e6%9a%87%e6%bb%a1%e5%bc%95%e5%af%bc02.docx) |  [前行实修引导之法轨—暇满引导02.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e6%9a%87%e6%bb%a1%e5%bc%95%e5%af%bc02.mp3) |  |
+| 3 |  [前行实修引导之法轨—暇满引导03.docx](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e6%9a%87%e6%bb%a1%e5%bc%95%e5%af%bc03.docx) |  [前行实修引导之法轨—暇满引导03.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e6%9a%87%e6%bb%a1%e5%bc%95%e5%af%bc03.mp3) |  |
+| 4 |  [前行实修引导之法轨—暇满引导04.docx](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e6%9a%87%e6%bb%a1%e5%bc%95%e5%af%bc04.docx) |  [前行实修引导之法轨—暇满引导04.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e6%9a%87%e6%bb%a1%e5%bc%95%e5%af%bc04.mp3) |  |
+| 5 |  [前行实修引导之法轨—暇满引导05.docx](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e6%9a%87%e6%bb%a1%e5%bc%95%e5%af%bc05.docx) |  [前行实修引导之法轨—暇满引导05.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e6%9a%87%e6%bb%a1%e5%bc%95%e5%af%bc05.mp3) |  |
+
+---
+
 # 01 
 
 ### 大圆满龙钦宁体共同前行实修引导之法轨讲记

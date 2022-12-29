@@ -18,6 +18,16 @@ import Mypara from '@site/src/components/myp';
 
 ---
 
+| 课时 | 文档 | 音频 | 视频 |
+| --- | --- | --- | --- |
+| 1 |  [前行实修引导之法轨—业因果01.docx](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e4%b8%9a%e5%9b%a0%e6%9e%9c01.docx) |  [前行实修引导之法轨—业因果01.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e4%b8%9a%e5%9b%a0%e6%9e%9c01.mp3) |  |
+| 2 |  [前行实修引导之法轨—业因果02.docx](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e4%b8%9a%e5%9b%a0%e6%9e%9c02.docx) |  [前行实修引导之法轨—业因果02.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e4%b8%9a%e5%9b%a0%e6%9e%9c02.mp3) |  |
+| 3 |  [前行实修引导之法轨—业因果03.docx](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e4%b8%9a%e5%9b%a0%e6%9e%9c03.docx) |  [前行实修引导之法轨—业因果03.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e4%b8%9a%e5%9b%a0%e6%9e%9c03.mp3) |  |
+| 4 |  [前行实修引导之法轨—业因果04.docx](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e4%b8%9a%e5%9b%a0%e6%9e%9c04.docx) |  [前行实修引导之法轨—业因果04.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e4%b8%9a%e5%9b%a0%e6%9e%9c04.mp3) |  |
+| 5 |  [前行实修引导之法轨—业因果05.docx](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e4%b8%9a%e5%9b%a0%e6%9e%9c05.docx) |  [前行实修引导之法轨—业因果05.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e4%b8%9a%e5%9b%a0%e6%9e%9c05.mp3) |  |
+
+---
+
 ## 01
 
 第四、思惟业因果　分二：一、总体思惟；二、分别思惟。

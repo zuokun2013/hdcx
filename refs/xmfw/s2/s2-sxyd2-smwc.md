@@ -18,6 +18,19 @@ import Mypara from '@site/src/components/myp';
 
 ---
 
+| 课时 | 文档 | 音频 | 视频 |
+| --- | --- | --- | --- |
+| 1 |  [前行实修引导之法轨—无常引导01.docx](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e6%97%a0%e5%b8%b8%e5%bc%95%e5%af%bc01.docx) |  [前行实修引导之法轨—无常引导01.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e6%97%a0%e5%b8%b8%e5%bc%95%e5%af%bc01.mp3) |  |
+| 2 |  [前行实修引导之法轨—无常引导02.docx](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e6%97%a0%e5%b8%b8%e5%bc%95%e5%af%bc02.docx) |  [前行实修引导之法轨—无常引导02.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e6%97%a0%e5%b8%b8%e5%bc%95%e5%af%bc02.mp3) |  |
+| 3 |  [前行实修引导之法轨—无常引导03.docx](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e6%97%a0%e5%b8%b8%e5%bc%95%e5%af%bc03.docx) |  [前行实修引导之法轨—无常引导03.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e6%97%a0%e5%b8%b8%e5%bc%95%e5%af%bc03.mp3) |  |
+| 4 |  [前行实修引导之法轨—无常引导04.docx](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e6%97%a0%e5%b8%b8%e5%bc%95%e5%af%bc04.docx) |  [前行实修引导之法轨—无常引导04.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e6%97%a0%e5%b8%b8%e5%bc%95%e5%af%bc04.mp3) |  |
+| 5 |  [前行实修引导之法轨—无常引导05.docx](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e6%97%a0%e5%b8%b8%e5%bc%95%e5%af%bc05.docx) |  [前行实修引导之法轨—无常引导05.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e6%97%a0%e5%b8%b8%e5%bc%95%e5%af%bc05.mp3) |  |
+| 6 |  [前行实修引导之法轨—无常引导06.docx](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e6%97%a0%e5%b8%b8%e5%bc%95%e5%af%bc06.docx) |  [前行实修引导之法轨—无常引导06.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e6%97%a0%e5%b8%b8%e5%bc%95%e5%af%bc06.mp3) |  |
+| 7 |  [前行实修引导之法轨—无常引导07.docx](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e6%97%a0%e5%b8%b8%e5%bc%95%e5%af%bc07.docx) |  [前行实修引导之法轨—无常引导07.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e6%97%a0%e5%b8%b8%e5%bc%95%e5%af%bc07.mp3) |  |
+| 8 |  [前行实修引导之法轨—无常引导08.docx](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e6%97%a0%e5%b8%b8%e5%bc%95%e5%af%bc08.docx) |  [前行实修引导之法轨—无常引导08.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s2/%e5%89%8d%e8%a1%8c%e5%ae%9e%e4%bf%ae%e5%bc%95%e5%af%bc%e4%b9%8b%e6%b3%95%e8%bd%a8%e2%80%94%e6%97%a0%e5%b8%b8%e5%bc%95%e5%af%bc08.mp3) |  |
+
+---
+
 ## 01 
 
 按照晋美朗巴大祖师的宗轨，在外前行第二部分思维寿命无常的修法里，首先要思维外器世间的大无常相。也就是按照经教，了解到我们以为似乎恒常永固的须弥山、四大洲、天界，乃至整个铁围山所包括的上下所有境界，到坏灭时经历“七火一水”等的大灾难，最终连微尘也不剩，对此生起厌患之心。
