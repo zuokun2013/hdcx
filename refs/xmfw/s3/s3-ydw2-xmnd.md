@@ -19,7 +19,7 @@ import Mypara from '@site/src/components/myp';
 
 ---
 
-|  | 文档 | 音频 | 视频 |
+| 课时 | 文档 | 音频 | 视频 |
 | --- | --- | --- | --- |
 | 1 |  [前行引导文-暇满难得01.docx](https://f.huidengchanxiu.net/jmy/xmfw/s3/02/%e5%89%8d%e8%a1%8c%e5%bc%95%e5%af%bc%e6%96%87-%e6%9a%87%e6%bb%a1%e9%9a%be%e5%be%9701.docx) |  [前行引导文-暇满难得01.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s3/02/%e5%89%8d%e8%a1%8c%e5%bc%95%e5%af%bc%e6%96%87-%e6%9a%87%e6%bb%a1%e9%9a%be%e5%be%9701.mp3) |  [前行引导文-暇满难得01.mp4](https://f.huidengchanxiu.net/jmy/xmfw/s3/02/%e5%89%8d%e8%a1%8c%e5%bc%95%e5%af%bc%e6%96%87-%e6%9a%87%e6%bb%a1%e9%9a%be%e5%be%9701.mp4) |
 | 2 |  [前行引导文-暇满难得02.docx](https://f.huidengchanxiu.net/jmy/xmfw/s3/02/%e5%89%8d%e8%a1%8c%e5%bc%95%e5%af%bc%e6%96%87-%e6%9a%87%e6%bb%a1%e9%9a%be%e5%be%9702.docx) |  [前行引导文-暇满难得02.mp3](https://f.huidengchanxiu.net/jmy/xmfw/s3/02/%e5%89%8d%e8%a1%8c%e5%bc%95%e5%af%bc%e6%96%87-%e6%9a%87%e6%bb%a1%e9%9a%be%e5%be%9702.mp3) |  [前行引导文-暇满难得02.mp4](https://f.huidengchanxiu.net/jmy/xmfw/s3/02/%e5%89%8d%e8%a1%8c%e5%bc%95%e5%af%bc%e6%96%87-%e6%9a%87%e6%bb%a1%e9%9a%be%e5%be%9702.mp4) |
