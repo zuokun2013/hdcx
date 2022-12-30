@@ -1,6 +1,6 @@
 ---
-title: "慧灯之光"
-position: "1"
+title: "慧灯之光目录"
+sidebar_position: 0.1
 ---
 
 
