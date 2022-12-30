@@ -1,6 +1,6 @@
 ---
 sidebar_position: 0.1
-sidebar_label: 系列1
+sidebar_label: 系列1祖师传
 ---
 
 
