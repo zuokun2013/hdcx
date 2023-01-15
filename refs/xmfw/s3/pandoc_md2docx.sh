@@ -1,0 +1,1 @@
+pandoc s3-ydw3-smwc.md --toc --number-section --lua-filter ~/git-repos/hdv/bin/count-para.lua  -o s3-ydw3-smwc.docx 
