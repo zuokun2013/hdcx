@@ -26,7 +26,6 @@ jobs:
       - name: Build Docusaurus website
         run: |
           cd /home/runner/work/hdcx/hdcx
-          npm install --save @easyops-cn/docusaurus-search-local
           npm install react-player
           npm install 
           npm run build
