@@ -18,9 +18,14 @@ import Mypara from '@site/src/components/myp';
 
 ## 第三节课
 
-###### [《大圆满前行》讲解第3课.mp4 - 视频](http://huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第3课.mp4)
 
-###### [《大圆满前行》讲解第3课.mp3 - 音频](http://huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第3课.mp3)
+- [《大圆满前行》讲解第03课.mp4 - 视频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第03课.mp4)
+
+- [《大圆满前行》讲解第03课.mp3 - 音频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第03课.mp3)
+
+- [前行第003节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第003节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-02wffs#前行广释第3课笔录)
 
 此大圆满龙钦宁提内外前行，是华智仁波切长期依止如来芽尊者听受二十五次之后，依照上师口传而记录下来的。其中内容非常丰富，具有殊胜的传承加持力。
 
