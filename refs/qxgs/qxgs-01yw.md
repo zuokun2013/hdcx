@@ -22,7 +22,7 @@ import Mypara from '@site/src/components/myp';
 
 - [0-1前行之重要性(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/0-1前行之重要性(仅供参考).ppt)
 
-- [法师辅导](/refs/qxgs/fudao/qxgsfd-01yw#前行之重要性)
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-01yw#前行之重要性辅导资料)
 
 
 
@@ -292,7 +292,7 @@ import Mypara from '@site/src/components/myp';
 
 - [0-2上师瑜伽速赐加持讲记(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/0-2上师瑜伽速赐加持讲记(仅供参考).ppt)
 
-- [法师辅导](/refs/qxgs/fudao/qxgsfd-01yw#上师瑜伽速赐加持)
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-01yw#上师瑜伽速赐加持辅导资料)
 
 今天给大家讲一下上师瑜伽。
 
@@ -429,7 +429,7 @@ import Mypara from '@site/src/components/myp';
 
 - [前行第001节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第001节课(仅供参考).ppt)
 
-- [法师辅导](/refs/qxgs/fudao/qxgsfd-01yw#大圆满前行第1课笔录)
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-01yw#大圆满前行第1课辅导资料)
 
 
 祈祷释迦牟尼佛
@@ -632,7 +632,7 @@ import Mypara from '@site/src/components/myp';
 
 - [前行第002节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第002节课(仅供参考).ppt)
 
-- [法师辅导](/refs/qxgs/fudao/qxgsfd-01yw#大圆满前行第2课笔录)
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-01yw#大圆满前行第2课辅导资料)
 
 
 学习《大圆满前行》之初，首先讲对传承上师的顶礼句。昨天华智仁波切顶礼了三大传承上师、无垢光尊者、智悲光尊者，今天开始顶礼他唯一的根本上师——如来芽尊者。
