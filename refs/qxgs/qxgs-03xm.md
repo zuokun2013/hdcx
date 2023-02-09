@@ -20,6 +20,15 @@ import Mypara from '@site/src/components/myp';
 
 ## 第十四节课
 
+
+- [《大圆满前行》讲解第14课.mp4 - 视频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第14课.mp4)
+
+- [《大圆满前行》讲解第14课.mp3 - 音频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第14课.mp3)
+
+- [前行第014节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第014节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-03xm#前行广释第14课辅导资料)
+
 思考题
 
 59、了解道次第对我们来讲有何必要？请引用公案进行说明。最终可得出什么样的结论？
@@ -172,6 +181,15 @@ import Mypara from '@site/src/components/myp';
 
 ## 第十五节课
 
+- [《大圆满前行》讲解第15课.mp4 - 视频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第15课.mp4)
+
+- [《大圆满前行》讲解第15课.mp3 - 音频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第15课.mp3)
+
+- [前行第015节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第015节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-03xm#前行广释第15课辅导资料)
+
+
 思考题
 
 64、三恶趣具体有哪些痛苦？请以旁生为例，说明一旦堕入恶趣，则根本不会有修法的机会。
@@ -305,6 +323,15 @@ import Mypara from '@site/src/components/myp';
 我今回向诸善根  为得普贤殊胜行
 
 ## 第十六节课
+
+- [《大圆满前行》讲解第16课.mp4 - 视频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第16课.mp4)
+
+- [《大圆满前行》讲解第16课.mp3 - 音频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第16课.mp3)
+
+- [前行第016节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第016节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-03xm#前行广释第16课辅导资料)
+
 
 思考题
 
@@ -454,6 +481,15 @@ import Mypara from '@site/src/components/myp';
 
 ## 第十七节课
 
+- [《大圆满前行》讲解第17课.mp4 - 视频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第17课.mp4)
+
+- [《大圆满前行》讲解第17课.mp3 - 音频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第17课.mp3)
+
+- [前行第017节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第017节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-03xm#前行广释第17课辅导资料)
+
+
 思考题
 
 75、什么叫地界中土？什么叫佛法中土？你是否转生于中土？请说明理由。
@@ -602,7 +638,16 @@ import Mypara from '@site/src/components/myp';
 
 我今回向诸善根  为得普贤殊胜行
 
-第十八节课
+## 第十八节课
+
+- [《大圆满前行》讲解第18课.mp4 - 视频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第18课.mp4)
+
+- [《大圆满前行》讲解第18课.mp3 - 音频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第18课.mp3)
+
+- [前行第018节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第018节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-03xm#前行广释第18课辅导资料)
+
 
 思考题
 
@@ -733,6 +778,14 @@ import Mypara from '@site/src/components/myp';
 我今回向诸善根  为得普贤殊胜行
 
 ## 第十九节课
+
+- [《大圆满前行》讲解第19课.mp4 - 视频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第19课.mp4)
+
+- [《大圆满前行》讲解第19课.mp3 - 音频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第19课.mp3)
+
+- [前行第019节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第019节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-03xm#前行广释第19课辅导资料)
 
 思考题
 
@@ -906,6 +959,14 @@ import Mypara from '@site/src/components/myp';
 
 ## 第二十节课
 
+- [《大圆满前行》讲解第20课.mp4 - 视频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第20课.mp4)
+
+- [《大圆满前行》讲解第20课.mp3 - 音频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第20课.mp3)
+
+- [前行第020节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第020节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-03xm#前行广释第20课辅导资料)
+
 思考题
 
 88、解释颂词：深寂离戏光明无为法，吾已获得甘露之妙法，纵于谁说他亦不了知，故当默然安住于林间。
@@ -1043,6 +1104,14 @@ import Mypara from '@site/src/components/myp';
 我今回向诸善根  为得普贤殊胜行
 
 ## 第二十一节课
+
+- [《大圆满前行》讲解第21课.mp4 - 视频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第21课.mp4)
+
+- [《大圆满前行》讲解第21课.mp3 - 音频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第21课.mp3)
+
+- [前行第021节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第021节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-03xm#前行广释第21课辅导资料)
 
 思考题
 
@@ -1201,6 +1270,14 @@ import Mypara from '@site/src/components/myp';
 我今回向诸善根  为得普贤殊胜行
 
 ## 第二十二节课
+
+- [《大圆满前行》讲解第22课.mp4 - 视频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第22课.mp4)
+
+- [《大圆满前行》讲解第22课.mp3 - 音频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第22课.mp3)
+
+- [前行第022节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第022节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-03xm#前行广释第22课辅导资料)
 
 思考题
 
@@ -1364,6 +1441,14 @@ import Mypara from '@site/src/components/myp';
 
 ## 第二十三节课
 
+- [《大圆满前行》讲解第23课.mp4 - 视频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第23课.mp4)
+
+- [《大圆满前行》讲解第23课.mp3 - 音频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第23课.mp3)
+
+- [前行第023节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第023节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-03xm#前行广释第23课辅导资料)
+
 思考题
 
 102、断缘心与暂生缘相比，哪个更可怕？请说明理由。为此，我们应当怎么做？
@@ -1516,6 +1601,14 @@ import Mypara from '@site/src/components/myp';
 
 ## 第二十四节课
 
+- [《大圆满前行》讲解第24课.mp4 - 视频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第24课.mp4)
+
+- [《大圆满前行》讲解第24课.mp3 - 音频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第24课.mp3)
+
+- [前行第024节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第024节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-03xm#前行广释第24课辅导资料)
+
 思考题
 
 107、判断一个人修行好坏的标准是什么？请说明理由。
@@ -1631,6 +1724,14 @@ import Mypara from '@site/src/components/myp';
 我今回向诸善根  为得普贤殊胜行
 
 ## 第二十五节课
+
+- [《大圆满前行》讲解第25课.mp4 - 视频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第25课.mp4)
+
+- [《大圆满前行》讲解第25课.mp3 - 音频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第25课.mp3)
+
+- [前行第025节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第025节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-03xm#前行广释第25课辅导资料)
 
 思考题
 
@@ -1768,6 +1869,14 @@ import Mypara from '@site/src/components/myp';
 
 ## 第二十六节课
 
+- [《大圆满前行》讲解第26课.mp4 - 视频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第26课.mp4)
+
+- [《大圆满前行》讲解第26课.mp3 - 音频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第26课.mp3)
+
+- [前行第026节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第026节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-03xm#前行广释第26课辅导资料)
+
 思考题
 
 115、为什么佛陀说“得人身者，如爪上土；失人身者，如大地土”？你对此怎么理解？
@@ -1895,6 +2004,14 @@ import Mypara from '@site/src/components/myp';
 我今回向诸善根  为得普贤殊胜行
 
 ## 第二十七节课
+
+- [《大圆满前行》讲解第27课.mp4 - 视频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第27课.mp4)
+
+- [《大圆满前行》讲解第27课.mp3 - 音频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第27课.mp3)
+
+- [前行第027节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第027节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-03xm#前行广释第27课辅导资料)
 
 思考题
 
