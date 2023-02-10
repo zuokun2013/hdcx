@@ -7,6 +7,8 @@
 
 ## 参考串讲
 
-- [2021-三个差别.pptx](http://view.officeapps.live.com/op/view.aspx?src=https://huidengchanxiu.net/hdv/f/up/2021慧灯禅修第一课-三个差别.pptx)
-- [2021-三殊胜.pptx](http://view.officeapps.live.com/op/view.aspx?src=http://huidengchanxiu.net/hdv/f/up/%E6%85%A7%E7%81%AF%E7%A6%85%E4%BF%AE%E7%8F%AD%E7%AC%AC%E4%B8%83%E5%A0%82%E8%AF%BE.pptx)
-- [2021-生存的方式和生存的意义.pptx](http://view.officeapps.live.com/op/view.aspx?src=http://huidengchanxiu.net/hdv/f/up/2021-生存的方式和生存的意义.pptx)
+- [慧灯禅修班第1册第1课-三个差别.pptx](http://view.officeapps.live.com/op/view.aspx?src=https://f.huidengchanxiu.net/hdv/f/up/慧灯禅修班第1册第1课-三个差别.pptx)
+- [慧灯禅修班第1册第2课三殊胜(视频1).pptx](http://view.officeapps.live.com/op/view.aspx?src=https://f.huidengchanxiu.net/hdv/f/up/慧灯禅修班第1册第2课三殊胜(视频1).pptx) | [下载](https://f.huidengchanxiu.net/hdv/f/up/慧灯禅修班第1册第2课三殊胜(视频1).pptx)
+- [慧灯禅修班第1册第2课三殊胜(视频2).pptx](http://view.officeapps.live.com/op/view.aspx?src=https://f.huidengchanxiu.net/hdv/f/up/慧灯禅修班第1册第2课三殊胜(视频2).pptx) | [下载](https://f.huidengchanxiu.net/hdv/f/up/慧灯禅修班第1册第2课三殊胜(视频2).pptx)
+- [慧灯禅修班第1册第2课三殊胜(视频3).pptx](http://view.officeapps.live.com/op/view.aspx?src=https://f.huidengchanxiu.net/hdv/f/up/慧灯禅修班第1册第2课三殊胜(视频3).pptx) | [下载](https://f.huidengchanxiu.net/hdv/f/up/慧灯禅修班第1册第2课三殊胜(视频3).pptx)
+- [慧灯禅修班第1册第3课生存的方式和生存的意义.pptx](http://view.officeapps.live.com/op/view.aspx?src=https://f.huidengchanxiu.net/hdv/f/up/慧灯禅修班第1册第3课生存的方式和生存的意义.pptx)

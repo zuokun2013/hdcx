@@ -20,9 +20,9 @@ import Mypara from '@site/src/components/myp';
 
 ## 第二十八节课
 
-- [《大圆满前行》讲解第28课.mp4 - 视频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第28课.mp4)
+- [《大圆满前行》讲解第28课.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第28课.mp4)
 
-- [《大圆满前行》讲解第28课.mp3 - 音频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第28课.mp3)
+- [《大圆满前行》讲解第28课.mp3 - 音频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第28课.mp3)
 
 - [前行第028节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第028节课(仅供参考).ppt)
 

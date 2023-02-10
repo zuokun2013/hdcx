@@ -16,9 +16,9 @@ import Mypara from '@site/src/components/myp';
 
 ## 前行之重要性
 
-- [0-1前行的重要性.mp4 - 视频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/0-1前行的重要性.mp4)
+- [0-1前行的重要性.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/0-1前行的重要性.mp4)
 
-- [0-1前行的重要性.mp3 - 音频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/0-1前行的重要性.mp3)
+- [0-1前行的重要性.mp3 - 音频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/0-1前行的重要性.mp3)
 
 - [0-1前行之重要性(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/0-1前行之重要性(仅供参考).ppt)
 
@@ -288,7 +288,7 @@ import Mypara from '@site/src/components/myp';
 
 ## 《上师瑜伽速赐加持》讲记
 
-- [0-2前行广释上师瑜伽2016版.mp4 - 视频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/0-2前行广释上师瑜伽2016版.mp4)
+- [0-2前行广释上师瑜伽2016版.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/0-2前行广释上师瑜伽2016版.mp4)
 
 - [0-2上师瑜伽速赐加持讲记(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/0-2上师瑜伽速赐加持讲记(仅供参考).ppt)
 
@@ -423,9 +423,9 @@ import Mypara from '@site/src/components/myp';
 ## 第一节课
 
 
-- [《大圆满前行》讲解第1课.mp4 - 视频](http://huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第01课.mp4)
+- [《大圆满前行》讲解第1课.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第01课.mp4)
 
-- [《大圆满前行》讲解第1课.mp3 - 音频](http://huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第01课.mp3)
+- [《大圆满前行》讲解第1课.mp3 - 音频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第01课.mp3)
 
 - [前行第001节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第001节课(仅供参考).ppt)
 
@@ -626,9 +626,9 @@ import Mypara from '@site/src/components/myp';
 ## 第二节课
 
 
-- [《大圆满前行》讲解第02课.mp4 - 视频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第02课.mp4)
+- [《大圆满前行》讲解第02课.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第02课.mp4)
 
-- [《大圆满前行》讲解第02课.mp3 - 音频](http://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第02课.mp3)
+- [《大圆满前行》讲解第02课.mp3 - 音频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第02课.mp3)
 
 - [前行第002节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第002节课(仅供参考).ppt)
 

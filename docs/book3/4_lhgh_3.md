@@ -18,7 +18,7 @@ tags:
 
 import ReactPlayer from 'react-player'
 
-<ReactPlayer id='hdvplayer' light='/img/lamp-hope.png' controls url='http://huidengchanxiu.net/jmy/%e6%85%a7%e7%81%af%e7%a6%85%e4%bf%ae%e8%af%be/%e6%85%a7%e7%81%af%e7%a6%85%e4%bf%ae%e8%af%be%e7%ac%ac%e4%b8%89%e5%86%8c/04-3%20%e6%85%a7%e7%81%af%e7%a6%85%e4%bf%ae%e8%af%be11%20%e8%bd%ae%e5%9b%9e%e7%97%9b%e8%8b%a63.mp4' />
+<ReactPlayer id='hdvplayer' light='/img/lamp-hope.png' controls url='https://f.huidengchanxiu.net/jmy/%e6%85%a7%e7%81%af%e7%a6%85%e4%bf%ae%e8%af%be/%e6%85%a7%e7%81%af%e7%a6%85%e4%bf%ae%e8%af%be%e7%ac%ac%e4%b8%89%e5%86%8c/04-3%20%e6%85%a7%e7%81%af%e7%a6%85%e4%bf%ae%e8%af%be11%20%e8%bd%ae%e5%9b%9e%e7%97%9b%e8%8b%a63.mp4' />
 
 
 
