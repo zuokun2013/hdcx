@@ -19,6 +19,14 @@ import Mypara from '@site/src/components/myp';
 
 ## 第五十九节课
 
+- [《大圆满前行》讲解第59课.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第59课.mp4)
+
+- [《大圆满前行》讲解第59课.mp3 - 音频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第59课.mp3)
+
+- [前行第059节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第059节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-06yg#前行广释第59课辅导资料)
+
 思考题
 
 230、“人身难得”到“因果不虚”这四个引导文，各自侧重于说明什么道理？如果缺少其中一个可以吗？为什么？
