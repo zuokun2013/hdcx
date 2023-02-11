@@ -18,6 +18,9 @@ import Mypara from '@site/src/components/myp';
 
 ## 《前行广释》第14课辅导资料
 
+- [辅导音频](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第01册1-21/大圆满前行第14课2015年03月29日.m4a)
+- [问答音频](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第01册1-21/大圆满前行第14课问答2015年03月29日.m4a)
+
 诸法等性本基法界中，自现圆满三身游舞力，
 
 离障本来怙主龙钦巴，祈请无垢光尊常护我。
@@ -251,6 +254,9 @@ import Mypara from '@site/src/components/myp';
 本稿仅为方便内部学习所用，非正式文稿，仅供参考！
 
 ## 《前行广释》第15课辅导资料
+
+- [辅导音频](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第01册1-21/大圆满前行第15课2015年04月05日.m4a)
+- [问答音频](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第01册1-21/大圆满前行第15课问答2015年04月05日.m4a)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 
@@ -490,6 +496,9 @@ import Mypara from '@site/src/components/myp';
 
 ## 《前行广释》第16课辅导资料
 
+- [辅导音频](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第01册1-21/大圆满前行第16课2015年04月12日.m4a)
+- [问答音频](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第01册1-21/大圆满前行第16课问答2015年04月12日.m4a)
+
 诸法等性本基法界中，自现圆满三身游舞力，
 
 离障本来怙主龙钦巴，祈请无垢光尊常护我。
@@ -693,6 +702,9 @@ import Mypara from '@site/src/components/myp';
 本稿仅为方便内部学习所用，非正式文稿，仅供参考！
 
 ## 《前行广释》第17课辅导资料
+
+- [辅导音频](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第01册1-21/大圆满前行第17课2015年04月19日.m4a)
+- [问答音频](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第01册1-21/大圆满前行第17课问答2015年04月19日.m4a)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 
@@ -926,6 +938,9 @@ import Mypara from '@site/src/components/myp';
 
 ## 《前行广释》第18课辅导资料
 
+- [辅导音频](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第01册1-21/大圆满前行第18课2015年04月26日.m4a)
+- [问答音频](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第01册1-21/大圆满前行第18课问答2015年04月26日.m4a)
+
 诸法等性本基法界中，自现圆满三身游舞力，
 
 离障本来怙主龙钦巴，祈请无垢光尊常护我。
@@ -1145,6 +1160,9 @@ import Mypara from '@site/src/components/myp';
 本稿仅为方便内部学习所用，非正式文稿，仅供参考！
 
 ## 《前行广释》第19课辅导资料
+
+- [辅导音频](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第01册1-21/大圆满前行第19课2015年05月03日.m4a)
+- [问答音频](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第01册1-21/大圆满前行第19课问答2015年05月03日.m4a)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 
@@ -1442,6 +1460,9 @@ import Mypara from '@site/src/components/myp';
 
 ## 《前行广释》第20课辅导资料
 
+- [辅导音频](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第01册1-21/大圆满前行第20课2015年05月10日.m4a)
+- [问答音频](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第01册1-21/大圆满前行第20课问答2015年05月10日.m4a)
+
 诸法等性本基法界中，自现圆满三身游舞力，
 
 离障本来怙主龙钦巴，祈请无垢光尊常护我。
@@ -1733,6 +1754,9 @@ import Mypara from '@site/src/components/myp';
 本稿仅为方便内部学习所用，非正式文稿，仅供参考！
 
 ## 《前行广释》第21课辅导资料
+
+- [辅导音频](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第01册1-21/大圆满前行第21课2015年05月17日.m4a)
+- [问答音频](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第01册1-21/大圆满前行第21课问答2015年05月17日.m4a)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 
@@ -2037,6 +2061,9 @@ import Mypara from '@site/src/components/myp';
 本稿仅为方便内部学习所用，非正式文稿，仅供参考！
 
 ## 《前行广释》第22课辅导资料
+
+- [辅导音频](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第02册22-44/大圆满前行第22课2015年05月31日.m4a)
+- [问答音频](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第02册22-44/大圆满前行第22课问答2015年05月31日.m4a)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 
