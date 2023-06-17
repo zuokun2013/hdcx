@@ -8,7 +8,7 @@
 
 ## 复习内容
 
-* [第二册 第四课 《戒杀放生的功德》 参考串讲](http://view.officeapps.live.com/op/view.aspx?src=https://f.huidengchanxiu.net/hdv/f/up/慧灯禅修班第二册第三课.pptx) | [下载](https://f.huidengchanxiu.net/hdv/f/up/慧灯禅修班第二册第三课.pptx)
-* [第二册 第五课 《素食的意义》 参考串讲](http://view.officeapps.live.com/op/view.aspx?src=https://f.huidengchanxiu.net/hdv/f/up/慧灯禅修班第二册第四课.pptx) | [下载](https://f.huidengchanxiu.net/hdv/f/up/慧灯禅修班第二册第四课.pptx)
-* [第二册 第六课 《关于放生》 参考串讲](http://view.officeapps.live.com/op/view.aspx?src=https://f.huidengchanxiu.net/hdv/f/up/关于放生.pptx) | [下载](https://f.huidengchanxiu.net/hdv/f/up/关于放生.pptx)
-* [第二册 第七课 《世界和平共处的诀窍--平等生存》 参考串讲](http://view.officeapps.live.com/op/view.aspx?src=https://f.huidengchanxiu.net/hdv/f/up/慧灯禅修班第二册第六课.pptx) | [下载](https://f.huidengchanxiu.net/hdv/f/up/慧灯禅修班第二册第六课.pptx)
+* [第二册 第四课 《戒杀放生的功德》 参考串讲](http://view.officeapps.live.com/op/view.aspx?src=https://f.huidengchanxiu.net/hdv/d/hdcxk/chj/第二册第4课戒杀放生的功德.pptx) | [下载](https://f.huidengchanxiu.net/hdv/d/hdcxk/chj/第二册第4课戒杀放生的功德.pptx)
+* [第二册 第五课 《素食的意义》 参考串讲](http://view.officeapps.live.com/op/view.aspx?src=https://f.huidengchanxiu.net/hdv/d/hdcxk/chj/第二册第5课素食的意义.pptx) | [下载](https://f.huidengchanxiu.net/hdv/d/hdcxk/chj/第二册第5课素食的意义.pptx)
+* [第二册 第六课 《关于放生》 参考串讲](http://view.officeapps.live.com/op/view.aspx?src=https://f.huidengchanxiu.net/hdv/d/hdcxk/chj/第二册第6课关于放生.pptx) | [下载](https://f.huidengchanxiu.net/hdv/d/hdcxk/chj/第二册第6课关于放生.pptx)
+* [第二册 第七课 《世界和平共处的诀窍--平等生存》 参考串讲](http://view.officeapps.live.com/op/view.aspx?src=https://f.huidengchanxiu.net/hdv/d/hdcxk/chj/第二册第7课世界和平共处的窍诀_第8课受戒行善的殊胜日.pptx) | [下载](https://f.huidengchanxiu.net/hdv/d/hdcxk/chj/第二册第7课世界和平共处的窍诀_第8课受戒行善的殊胜日.pptx)

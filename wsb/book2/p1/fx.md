@@ -9,6 +9,6 @@
 ## 复习内容
 
 * [第二册 第一课 《金刚七句之上师瑜伽》 参考串讲](https://f.huidengchanxiu.net/hdv/f/up/%E9%87%91%E5%88%9A%E4%B8%83%E5%8F%A5%E4%B8%8A%E5%B8%88%E7%91%9C%E4%BC%BD.pdf)
-* [第二册 第二课 《为什么现代人越来越没有幸福感》 参考串讲](http://view.officeapps.live.com/op/view.aspx?src=https://f.huidengchanxiu.net/hdv/f/up/2020慧灯禅修班第二册第一课.pptx) | [下载](https://f.huidengchanxiu.net/hdv/f/up/2020慧灯禅修班第二册第一课.pptx)
-* [第二册 第三课 《如何面对痛苦和幸福》参考串讲](http://view.officeapps.live.com/op/view.aspx?src=https://f.huidengchanxiu.net/hdv/d/hdcxk/chj/第二册第二课如何面对痛苦和幸福.pptx) | [下载](https://f.huidengchanxiu.net/hdv/d/hdcxk/chj/第二册第二课如何面对痛苦和幸福.pptx)
+* [第二册 第二课 《为什么现代人越来越没有幸福感》 参考串讲](http://view.officeapps.live.com/op/view.aspx?[src=https://f.huidengchanxiu.net/hdv/f/up/2020慧灯禅修班第二册第一课.pptx](https://f.huidengchanxiu.net/hdv/d/hdcxk/chj/第二册第2课为什么现代人越来越没有幸福感.pptx)) | [下载](https://f.huidengchanxiu.net/hdv/f/up/2020慧灯禅修班第二册第一课.pptx)
+* [第二册 第三课 《如何面对痛苦和幸福》参考串讲](http://view.officeapps.live.com/op/view.aspx?src=https://f.huidengchanxiu.net/hdv/d/hdcxk/chj/第二册第3课如何面对痛苦和幸福.pptx) | [下载](https://f.huidengchanxiu.net/hdv/d/hdcxk/chj/第二册第3课如何面对痛苦和幸福.pptx)
   * [如何面对痛苦与幸福 思维导图](https://f.huidengchanxiu.net/hdv/f/up/如何面对痛苦与幸福.mm.html)
