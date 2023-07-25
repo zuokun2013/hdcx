@@ -1,0 +1,20 @@
+\usepackage[utf8]{inputenc}
+\usepackage{xeCJK}% use Latin font whenever possible
+\usepackage{fontspec}% set Chinese fonts, as follows
+\usepackage[paperwidth=3in,paperheight=4.8in,top=1mm,bottom=12mm,left=1mm,right=1mm,landscape]{geometry}
+\usepackage{setspace}
+\usepackage{lastpage}
+\setlength{\parindent}{4ex}
+\linespread{1.2}
+\usepackage{marginnote}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\rfoot{\tiny \thepage\ of \pageref{LastPage} }
+\lfoot{\rightmark}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0.5pt}
+\flushbottom
+\usepackage{xcolor}
+\pagecolor[rgb]{0,0,0.1} %black
+\color[rgb]{0.8,0.8,0.8} %grey
