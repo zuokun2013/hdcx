@@ -176,6 +176,150 @@ tags: ["慧灯之光视频"]
 
 <https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/puti-xin/1840-l02012>
 
+
+## 六度
+
+六度
+
+### 布施的修法（上）
+
+2012.04.01 (02:00:29)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/liu-du/748-l12015>
+
+
+### 布施的修法（下）
+
+2012.04.02 (01:54:23)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/liu-du/749-l12016>
+
+
+### 忍辱的修法（上）
+
+2012.04.13 (01:50:30)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/liu-du/756-l12024>
+
+
+### 忍辱的修法（下）
+
+2012.04.14 (02:02:07)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/liu-du/757-l12025>
+
+
+### 佛教入门课7 生活中的六波罗蜜多1
+
+2017.09.11 (01:57:19)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/liu-du/2329-l17071>
+
+
+### 佛教入门课8 生活中的六波罗蜜多2
+
+2017.09.12 (01:54:21)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/liu-du/2311-l17072>
+
+
+### 佛教入门课9 生活中的六波罗蜜多3
+
+2017.09.13 (01:57:58)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/liu-du/2320-l17073>
+
+
+### 佛教入门课10 生活中的六波罗蜜多4
+
+2018.09.16 (01:58:27)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/liu-du/3333-l18085>
+
+
+### 佛教入门课11 生活中的六波罗蜜多5
+
+2018.09.17 (01:59:04)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/liu-du/3303-l18086>
+
+
+### 佛教入门课12 生活中的六波罗蜜多6
+
+2018.09.22 (01:59:06)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/liu-du/3334-l18087>
+
+
+### 佛教入门课13 生活中的六波罗蜜多7
+
+2018.09.23 (01:58:00)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/liu-du/3320-l18088>
+
+
+### 佛教入门课14 生活中的六波罗蜜多8
+
+2018.10.20 (01:57:49)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/liu-du/3421-l18089>
+
+
+### 佛教入门课15 生活中的六波罗蜜多9
+
+2018.10.21 (01:55:05)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/liu-du/3401-l18090>
+
+
+### 佛教入门课16 生活中的六波罗蜜多10
+
+2018.10.28 (02:00:35)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/liu-du/3481-l18091>
+
+
+### 佛教入门课17 生活中的六波罗蜜多11
+
+2018.10.29 (02:00:51)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/liu-du/3448-l18092>
+
+
+### 佛教入门课18 生活中的六波罗蜜多12
+
+2018.11.04 (02:01:31)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/liu-du/3469-l18093>
+
+### 佛教入门课19 生活中的六波罗蜜多13
+
+2018.11.17 (01:57:15)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/liu-du/3449-l18096>
+
+
+### 佛教入门课20 生活中的六波罗蜜多14
+
+2018.11.18 (02:00:05)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/liu-du/3450-l18097>
+
+
+### 佛教入门课21 生活中的六波罗蜜多15
+
+2018.11.26 (01:59:20)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/liu-du/3468-l18098>
+
+
+### 佛教入门课22 生活中的六波罗蜜多16
+
+2018.11.27 (02:02:18)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/liu-du/3511-l18099>
+
+
 ## 金刚萨埵
 
 
