@@ -7,56 +7,84 @@ tags: ["慧灯之光视频"]
 
 ## 出离心
 
+### 加行修法的传承
+
+2010.03.08 (01:28:49)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/chuli-xin/708-l10030>
+
 ### 人身难得和无常 
 
 2011.04.09 (01:42:22)
 
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/chuli-xin/738-l11048>
+
 ### 轮回和因果 
+
 2011.04.10 (01:38:46)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/chuli-xin/739-l11049>
 
 ### 四外加行-人身难得的修法 
 
 2011.03.28 (01:53:45)
 
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/chuli-xin/460-l11032>
+
 ### 四外加行-寿命无常的修法
 
 2011.03.29 (02:00:56)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/chuli-xin/670-l11033>
 
 ### 四外加行-轮回痛苦的修法
 
 2011.03.30 (01:48:04)
 
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/chuli-xin/671-l11034>
+
 ### 四外加行-因果不虚的修法
 
 2011.03.31 (01:55:44)
 
-### 加行修法的传承
-
-2010.03.08 (01:28:49)
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/chuli-xin/672-l11035>
 
 ### 出离心的修法
 
 2010.03.07 (01:57:05)
 
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/chuli-xin/706-l10029>
+
+
 ### 共同外前行2 人身难得1
 
 2006.08.20 (01:35:33)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/chuli-xin/872-l06002>
 
 ### 共同外前行3 人身难得2 寿命无常1
 
 2006.08.22 (01:37:42)
 
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/chuli-xin/873-l06003>
+
 ### 共同外前行4 寿命无常2
 
 2006.08.23 (01:32:32)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/chuli-xin/874-l06004>
 
 ### 共同外前行5 轮回过患
 
 2006.08.24 (01:34:50)
 
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/chuli-xin/875-l06005>
+
 ### 共同外前行6 因果不虚
 
 2006.08.27 (01:37:22)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/chuli-xin/876-l06006>
 
 
 ## 皈依
@@ -66,122 +94,170 @@ tags: ["慧灯之光视频"]
 
 2012.03.12 (01:32:36)
 
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/guiyi-de-xiufa/741-l12001>
+
 ### 皈依的修法(20120330)
 
 2012.03.30 (01:44:12)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/guiyi-de-xiufa/490-l12013>
 
 ### 大圆满前行-皈依的修法
 
 2011.04.16 (01:56:28)
 
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/guiyi-de-xiufa/487-l11036>
+
 ### 皈依的修法(2011)
 
 2011.04.11 (01:31:32)
 
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/guiyi-de-xiufa/488-l11050>
+
 ## 菩提心
-
-
 
 ### 菩提心的修法(20120331)
 
 2012.03.31 (01:51:28)
 
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/puti-xin/747-l12014>
+
 ### 菩提心的修法（上）(20120313)
 
 2012.03.13 (02:02:09)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/puti-xin/743-l12002>
 
 ### 菩提心的修法（下）(20120314)
 
 2012.03.14 (01:46:47)
 
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/puti-xin/744-l12003>
+
 ### 大圆满前行-菩提心的修法
 
 2011.04.17 (01:51:31)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/puti-xin/730-l11037>
 
 ### 菩提心的修法(2011)
 
 2011.04.12 (01:50:32)
 
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/puti-xin/730-l11037>
+
 ### 菩提心的修法(2010)
 
 2010.03.09 (02:03:42)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/puti-xin/703-l10031>
 
 ### 修菩提心的窍诀
 
 2010.04.03 (02:05:21)
 
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/puti-xin/689-l10005>
+
 ### 自轻他重的修法
 
 2002.10.25 (00:54:33)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/puti-xin/1842-l02014>
 
 ### 自他相换的修法
 
 2002.10.21 (01:29:05)
 
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/puti-xin/1841-l02013>
+
 ### 自他平等的修法
 
 2002.10.18 (01:10:38)
 
-## 金刚萨埵
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/puti-xin/1840-l02012>
 
+## 金刚萨埵
 
 
 ### 金刚萨埵的修法(2012)
 
 2012.03.15 (01:56:55)
 
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/jingangsaduo-de-xiufa/505-l12004>
+
 ### 大圆满前行-金刚萨埵的修法
 
 2011.04.19 (02:01:04)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/jingangsaduo-de-xiufa/731-l11038>
 
 ### 金刚萨埵如意宝珠的修法(20110418)
 
 2011.04.18 (01:43:25)
 
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/jingangsaduo-de-xiufa/501-l11044>
+
 ### 金刚萨埵如意宝珠的修法(20110413)
 
 2011.04.13 (01:43:14)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/jingangsaduo-de-xiufa/824-l11052>
 
 ### 金刚萨埵如意宝珠的修法(20110402)
 
 2011.04.02 (01:48:40)
 
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/jingangsaduo-de-xiufa/729-l11031>
+
 ## 曼扎的修法
-
-
 
 ### 大圆满前行-曼荼罗的修法
 
 2011.04.20 (01:41:10)
 
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/manzha-de-xiufa/515-l11039>
+
 ### 大圆满前行 内加行之曼荼罗修法
 
 2010.08.08 (01:36:51)
 
-## 上师瑜伽
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/manzha-de-xiufa/512-l10009>
 
+## 上师瑜伽
 
 
 ### 莲花生大师修法
 
 2012.04.27 (01:34:24)
 
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/shangshi-yujia/650-l12031>
+
 ### 莲花生大师上师瑜伽
 
 2013.03.17 (01:28:21)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/shangshi-yujia/807-l13022>
 
 ### 大圆满前行-上师瑜伽的修法
 
 2011.04.21 (01:53:13)
 
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/shangshi-yujia/732-l11040>
+
 ### 上师瑜伽-速赐加持的修法(2011)
 
 2011.04.22 (01:49:57)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/shangshi-yujia/580-l11043>
 
 ### 上师瑜伽速赐加持(2010)
 
 2010.11.26 (01:45:00)
 
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/shangshi-yujia/575-l10044>
+
 ### 大圆满前行 内加行之上师瑜伽
 
 2010.08.09 (01:31:39)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/shangshi-yujia/691-l10010>
