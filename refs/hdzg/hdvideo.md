@@ -353,6 +353,51 @@ tags: ["慧灯之光视频"]
 
 <https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/jingangsaduo-de-xiufa/729-l11031>
 
+## 生圆次第
+
+
+### 2017美国弘法行 生起次第的教授1
+
+2017.07.29 (01:29:18)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/shengyuan-cidi/8608-l17034>
+
+
+### 2017美国弘法行 生起次第的教授2
+
+2017.07.30 (01:28:35)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/shengyuan-cidi/8607-l17036>
+
+
+### 2017美国弘法行 生起次第的教授3
+
+2017.07.30 (01:58:59)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/shengyuan-cidi/8606-l17037>
+
+
+### 圆满次第的修法框架
+
+2009.11.20 (01:40:42)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/shengyuan-cidi/938-l09017>
+
+
+### 生起次第的修法框架1
+
+2009.11.15 (01:29:14)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/shengyuan-cidi/936-l09015>
+
+
+### 生起次第的修法框架2 
+
+2009.11.16 (01:26:42)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/shengyuan-cidi/937-l09016>
+
+
 ## 曼扎的修法
 
 ### 大圆满前行-曼荼罗的修法
@@ -405,3 +450,38 @@ tags: ["慧灯之光视频"]
 2010.08.09 (01:31:39)
 
 <https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/shangshi-yujia/691-l10010>
+
+## 破瓦法
+
+### 慧灯禅修课36 破瓦的修法1
+
+2023.03.14 (01:40:19)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/powa-fa/8807-l23001>
+
+
+### 慧灯禅修课37 破瓦的修法2
+
+2023.03.15 (01:44:21)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/powa-fa/8808-l23002>
+
+
+### 2018台湾系列讲座 《大圆满龙钦心髓破瓦法》讲授和实修引导
+
+2018.01.21 (02:01:21)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/powa-fa/8603-l18007>
+
+### 破瓦的实修法
+
+2010.04.18 (02:10:56)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/powa-fa/697-l10016>
+
+
+### 破瓦法
+
+2009.10.14 (01:44:55)
+
+<https://fohuifayu.com/index.php/huideng-jiangtang/fofa-jianxiu/powa-fa/935-l09009>
