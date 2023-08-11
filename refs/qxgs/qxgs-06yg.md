@@ -1,5 +1,5 @@
 ---
-title: "06因果不虚"
+title: "06因果不虚(59-72)"
 ---
 
 import TOCInline from '@theme/TOCInline';

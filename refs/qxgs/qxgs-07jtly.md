@@ -1,5 +1,5 @@
 ---
-title: "07解脱利益 依止上师"
+title: "07解脱利益 依止上师(73-83)"
 ---
 
 import TOCInline from '@theme/TOCInline';
