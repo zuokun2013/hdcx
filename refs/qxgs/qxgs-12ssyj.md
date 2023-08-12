@@ -18,6 +18,14 @@ import Mypara from '@site/src/components/myp';
 
 ## 第一百二十六节课
 
+- [《大圆满前行》讲解第126课.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第126课.mp4)
+
+- [《大圆满前行》讲解第126课.mp3 - 音频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第126课.mp3)
+
+- [前行第126节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第126节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-12ssyj#前行广释第126课辅导资料)
+
 《大圆满前行》中，人身难得、寿命无常、轮回过患、因果不虚、解脱利益、依止上师，这些共同加行已经讲完了；不共加行中，皈依、发心、修金刚萨埵、积累资粮也讲完了。从今天开始，讲上师瑜伽。
 
 五、上师瑜伽
@@ -267,6 +275,14 @@ import Mypara from '@site/src/components/myp';
 因此，对于这个可以一生成佛的法门，大家一定要重视！
 
 ## 第一百二十七节课
+
+- [《大圆满前行》讲解第127课.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第127课.mp4)
+
+- [《大圆满前行》讲解第127课.mp3 - 音频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第127课.mp3)
+
+- [前行第127节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第127节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-12ssyj#前行广释第127课辅导资料)
 
 下面继续讲“上师瑜伽是最深的修法”。
 
