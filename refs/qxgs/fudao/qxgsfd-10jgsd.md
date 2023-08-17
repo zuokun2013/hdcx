@@ -1,5 +1,5 @@
 ---
-title: "10念修金刚萨埵"
+title: "10念修金刚萨埵(114-118)"
 ---
 
 
@@ -14,6 +14,8 @@ import Mypara from '@site/src/components/myp';
 ---
 
 ## 《前行广释》第114课辅导资料
+
+- [辅导音频--前行第06册114-136](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第06册114-136/)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 
@@ -322,6 +324,8 @@ import Mypara from '@site/src/components/myp';
 哲波措利卓瓦卓瓦效 愿度有海诸有情
 
 ## 《前行广释》第115课辅导资料
+
+- [辅导音频--前行第06册114-136](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第06册114-136/)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 
@@ -736,6 +740,8 @@ import Mypara from '@site/src/components/myp';
 哲波措利卓瓦卓瓦效 愿度有海诸有情
 
 ## 《前行广释》第116课辅导资料
+
+- [辅导音频--前行第06册114-136](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第06册114-136/)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 
@@ -1198,6 +1204,8 @@ import Mypara from '@site/src/components/myp';
 哲波措利卓瓦卓瓦效 愿度有海诸有情
 
 ## 《前行广释》第117课辅导资料
+
+- [辅导音频--前行第06册114-136](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第06册114-136/)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 
@@ -1732,6 +1740,8 @@ import Mypara from '@site/src/components/myp';
 哲波措利卓瓦卓瓦效 愿度有海诸有情
 
 ## 《前行广释》第118课辅导资料
+
+- [辅导音频--前行第06册114-136](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第06册114-136/)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 

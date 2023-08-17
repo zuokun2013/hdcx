@@ -1,6 +1,6 @@
 ---
 
-title: "08皈依"
+title: "08皈依(84-90)"
 
 ---
 
@@ -17,7 +17,9 @@ import Mypara from '@site/src/components/myp';
 
 本稿仅为方便内部学习所用，非正式文稿，仅供参考！
 
-## 《前行广释》第84辅导资料
+## 《前行广释》第84课辅导资料
+
+- [辅导音频--前行第04册68-90](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第04册68-90/)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 
@@ -459,7 +461,9 @@ import Mypara from '@site/src/components/myp';
 
 本稿为内部学习所用，非正式文稿，仅供参考！
 
-## 《前行广释》第85辅导资料
+## 《前行广释》第85课辅导资料
+
+- [辅导音频--前行第04册68-90](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第04册68-90/)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 
@@ -852,6 +856,8 @@ import Mypara from '@site/src/components/myp';
 本稿为内部学习所用，非正式文稿，仅供参考！
 
 ## 《前行广释》第86课辅导资料
+
+- [辅导音频--前行第04册68-90](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第04册68-90/)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 
@@ -1433,6 +1439,8 @@ import Mypara from '@site/src/components/myp';
 
 ## 《前行广释》第87辅导资料
 
+- [辅导音频--前行第04册68-90](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第04册68-90/)
+
 诸法等性本基法界中，自现圆满三身游舞力，
 
 离障本来怙主龙钦巴，祈请无垢光尊常护我。
@@ -1897,6 +1905,8 @@ import Mypara from '@site/src/components/myp';
 
 ## 《前行广释》第88课辅导资料
 
+- [辅导音频--前行第04册68-90](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第04册68-90/)
+
 诸法等性本基法界中，自现圆满三身游舞力，
 
 离障本来怙主龙钦巴，祈请无垢光尊常护我。
@@ -2360,6 +2370,8 @@ import Mypara from '@site/src/components/myp';
 本稿为内部学习所用，非正式文稿，仅供参考！
 
 ## 《前行广释》第89课辅导资料
+
+- [辅导音频--前行第04册68-90](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第04册68-90/)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 
@@ -2864,6 +2876,8 @@ import Mypara from '@site/src/components/myp';
 本稿为内部学习所用，非正式文稿，仅供参考！
 
 ## 《前行广释》第90课辅导资料
+
+- [辅导音频--前行第04册68-90](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第04册68-90/)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 

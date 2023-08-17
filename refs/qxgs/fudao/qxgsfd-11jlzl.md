@@ -1,5 +1,5 @@
 ---
-title: "11积累资粮"
+title: "11积累资粮(119-125)"
 ---
 
 
@@ -15,6 +15,8 @@ import Mypara from '@site/src/components/myp';
 
 
 ## 《前行广释》第119课辅导资料
+
+- [辅导音频--前行第06册114-136](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第06册114-136/)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 
@@ -325,6 +327,8 @@ import Mypara from '@site/src/components/myp';
 哲波措利卓瓦卓瓦效 愿度有海诸有情
 
 ## 《前行广释》第120课辅导资料
+
+- [辅导音频--前行第06册114-136](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第06册114-136/)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 
@@ -832,6 +836,8 @@ import Mypara from '@site/src/components/myp';
 
 ## 《前行广释》第121课辅导资料
 
+- [辅导音频--前行第06册114-136](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第06册114-136/)
+
 诸法等性本基法界中，自现圆满三身游舞力，
 
 离障本来怙主龙钦巴，祈请无垢光尊常护我。
@@ -1207,6 +1213,8 @@ import Mypara from '@site/src/components/myp';
 哲波措利卓瓦卓瓦效 愿度有海诸有情
 
 ## 《前行广释》第122课辅导资料
+
+- [辅导音频--前行第06册114-136](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第06册114-136/)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 
@@ -1584,6 +1592,8 @@ import Mypara from '@site/src/components/myp';
 
 ## 《前行广释》第123课辅导资料  
 
+- [辅导音频--前行第06册114-136](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第06册114-136/)
+
 诸法等性本基法界中，自现圆满三身游舞力，
 
 离障本来怙主龙钦巴，祈请无垢光尊常护我。
@@ -1915,6 +1925,8 @@ import Mypara from '@site/src/components/myp';
 哲波措利卓瓦卓瓦效 愿度有海诸有情
 
 ## 《前行广释》第124课辅导资料
+
+- [辅导音频--前行第06册114-136](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第06册114-136/)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 
@@ -2271,6 +2283,8 @@ import Mypara from '@site/src/components/myp';
 哲波措利卓瓦卓瓦效 愿度有海诸有情
 
 ## 《前行广释》第125课辅导资料
+
+- [辅导音频--前行第06册114-136](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第06册114-136/)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 
