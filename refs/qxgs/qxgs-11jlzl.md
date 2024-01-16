@@ -1,5 +1,5 @@
 ---
-title: "11积累资粮"
+title: "11积累资粮(119-125)"
 ---
 
 import TOCInline from '@theme/TOCInline';
@@ -16,6 +16,14 @@ import Mypara from '@site/src/components/myp';
 ---
 
 ## 第一百一十九节课
+
+- [《大圆满前行》讲解第119课.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第119课.mp4)
+
+- [《大圆满前行》讲解第119课.mp3 - 音频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第119课.mp3)
+
+- [前行第119节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第119节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-11jlzl#前行广释第119课辅导资料)
 
 不共加行中，百字明已经讲完了。今天讲第四个——曼茶罗的修法。
 
@@ -246,6 +254,14 @@ import Mypara from '@site/src/components/myp';
 不管怎样，修行时，供物都要干净，并认认真真地擦拭曼茶罗的基盘。
 
 ## 第一百二十节课
+
+- [《大圆满前行》讲解第120课.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第120课.mp4)
+
+- [《大圆满前行》讲解第120课.mp3 - 音频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第120课.mp3)
+
+- [前行第120节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第120节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-11jlzl#前行广释第120课辅导资料)
 
 《大圆满前行》的“所讲之法”中，分共同外前行、不共内加行、往生法。
 
@@ -693,6 +709,14 @@ import Mypara from '@site/src/components/myp';
 
 ## 第一百二十一节课
 
+- [《大圆满前行》讲解第121课.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第121课.mp4)
+
+- [《大圆满前行》讲解第121课.mp3 - 音频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第121课.mp3)
+
+- [前行第121节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第121节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-11jlzl#前行广释第121课辅导资料)
+
 ##### 戊四、三身曼茶罗：
 
 化身曼茶罗是九堆，报身曼茶罗是五堆，法身曼茶罗是一堆。依照宁提派的仪轨，供养三身曼茶罗时，首先是共同化身曼茶罗。
@@ -997,6 +1021,14 @@ import Mypara from '@site/src/components/myp';
 
 ## 第一百二十二节课
 
+- [《大圆满前行》讲解第122课.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第122课.mp4)
+
+- [《大圆满前行》讲解第122课.mp3 - 音频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第122课.mp3)
+
+- [前行第122节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第122节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-11jlzl#前行广释第122课辅导资料)
+
 下面我们继续讲供曼茶罗。
 
 ◎ 远离吝啬、愚痴，以信心如法供养
@@ -1163,6 +1195,14 @@ import Mypara from '@site/src/components/myp';
 
 ## 第一百二十三节课
 
+- [《大圆满前行》讲解第123课.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第123课.mp4)
+
+- [《大圆满前行》讲解第123课.mp3 - 音频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第123课.mp3)
+
+- [前行第123节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第123节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-11jlzl#前行广释第123课辅导资料)
+
 继续讲积累资粮的供曼茶罗。前面介绍了前世的福德很重要，下面接着讲：
 
 ◎ 值遇殊胜福田，以清净心作微小供养可积大福德
@@ -1306,6 +1346,14 @@ import Mypara from '@site/src/components/myp';
 在其他部门发心也是一样。但不管你在哪个部门，大家一定要记住，都要以三殊胜摄持。比如今天我在医院发心，刚开始要为众生发菩提心，中间要以正知正念摄持，下班时还要把今天所做的一切善根，回向给天边无尽的众生。如果没有这样的心态，即使天天闻思修行，天天发心做事，天天坐在法座上夸夸其谈地讲法，连小乘的善根也不一定有。《前行备忘录》里面也讲：“发心非要，生心乃关要。”如果有真正的大乘心，哪怕天天在一个没有佛法的地方扫厕所，实际上这也是真正菩萨的行为！
 
 ## 第一百二十四节课
+
+- [《大圆满前行》讲解第124课.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第124课.mp4)
+
+- [《大圆满前行》讲解第124课.mp3 - 音频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第124课.mp3)
+
+- [前行第124节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第124节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-11jlzl#前行广释第124课辅导资料)
 
 不共加行的“积累资粮”中，前面已经讲了供曼茶罗，现在讲古萨里。
 
@@ -1504,6 +1552,14 @@ import Mypara from '@site/src/components/myp';
 这就是上供素斋。
 
 ## 第一百二十五节课
+
+- [《大圆满前行》讲解第125课.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第125课.mp4)
+
+- [《大圆满前行》讲解第125课.mp3 - 音频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第125课.mp3)
+
+- [前行第125节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第125节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-11jlzl#前行广释第125课辅导资料)
 
 今天，“积累资粮”的内容，就全部讲完了。
 

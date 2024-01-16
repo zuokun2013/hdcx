@@ -1,5 +1,5 @@
 ---
-title: "06因果不虚"
+title: "06因果不虚(59-72)"
 ---
 
 import TOCInline from '@theme/TOCInline';
@@ -189,6 +189,15 @@ import Mypara from '@site/src/components/myp';
 
 ## 第六十节课
 
+
+- [《大圆满前行》讲解第60课.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第60课.mp4)
+
+- [《大圆满前行》讲解第60课.mp3 - 音频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第60课.mp3)
+
+- [前行第060节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第060节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-06yg#前行广释第60课辅导资料)
+
 思考题
 
 235、现在许多儿童喜欢杀生，你如果有孩子，打算怎么样教育他？这有什么必要？
@@ -333,6 +342,15 @@ import Mypara from '@site/src/components/myp';
 
 ## 第六十一节课
 
+
+- [《大圆满前行》讲解第61课.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第61课.mp4)
+
+- [《大圆满前行》讲解第61课.mp3 - 音频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第61课.mp3)
+
+- [前行第061节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第061节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-06yg#前行广释第61课辅导资料)
+
 思考题
 
 239、不与取分为哪几种？各自有什么特点？
@@ -472,6 +490,15 @@ import Mypara from '@site/src/components/myp';
 我今回向诸善根  为得普贤殊胜行
 
 ## 第六十二节课
+
+- [《大圆满前行》讲解第62课.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第62课.mp4)
+
+- [《大圆满前行》讲解第62课.mp3 - 音频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第62课.mp3)
+
+- [前行第062节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第062节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-06yg#前行广释第62课辅导资料)
+
 
 思考题
 
@@ -633,6 +660,15 @@ import Mypara from '@site/src/components/myp';
 
 ## 第六十三节课
 
+- [《大圆满前行》讲解第63课.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第63课.mp4)
+
+- [《大圆满前行》讲解第63课.mp3 - 音频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第63课.mp3)
+
+- [前行第063节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第063节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-06yg#前行广释第63课辅导资料)
+
+
 思考题
 
 246、离间语分为哪几种？分别是如何定义的？最严重的离间语是什么？你造过这种业吗？
@@ -769,6 +805,15 @@ import Mypara from '@site/src/components/myp';
 
 ## 第六十四节课
 
+- [《大圆满前行》讲解第64课.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第64课.mp4)
+
+- [《大圆满前行》讲解第64课.mp3 - 音频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第64课.mp3)
+
+- [前行第064节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第064节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-06yg#前行广释第64课辅导资料)
+
+
 思考题
 
 252、意恶业分为哪几种？请一一说明。其分别会导致什么过患？
@@ -900,6 +945,14 @@ import Mypara from '@site/src/components/myp';
 我今回向诸善根  为得普贤殊胜行
 
 ## 第六十五节课
+
+- [《大圆满前行》讲解第65课.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第65课.mp4)
+
+- [《大圆满前行》讲解第65课.mp3 - 音频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第65课.mp3)
+
+- [前行第065节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第065节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-06yg#前行广释第65课辅导资料)
 
 思考题
 
@@ -1063,6 +1116,14 @@ import Mypara from '@site/src/components/myp';
 
 ## 第六十六节课
 
+- [《大圆满前行》讲解第66课.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第66课.mp4)
+
+- [《大圆满前行》讲解第66课.mp3 - 音频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第66课.mp3)
+
+- [前行第066节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第066节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-06yg#前行广释第66课辅导资料)
+
 思考题
 
 260、请引用《华严经》的教证进行分析，邪淫、妄语、离间语、恶语、绮语、贪心、害心、邪见，分别会招致什么样的感受等流果？你自己如今正在感受哪些？
@@ -1196,6 +1257,14 @@ import Mypara from '@site/src/components/myp';
 我今回向诸善根  为得普贤殊胜行
 
 ## 第六十七节课
+
+- [《大圆满前行》讲解第67课.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第67课.mp4)
+
+- [《大圆满前行》讲解第67课.mp3 - 音频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第67课.mp3)
+
+- [前行第067节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第067节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-06yg#前行广释第67课辅导资料)
 
 思考题
 
@@ -1401,6 +1470,14 @@ import Mypara from '@site/src/components/myp';
 
 ## 第六十八节课
 
+- [《大圆满前行》讲解第68课.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第68课.mp4)
+
+- [《大圆满前行》讲解第68课.mp3 - 音频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第68课.mp3)
+
+- [前行第068节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第068节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-06yg#前行广释第68课辅导资料)
+
 思考题
 
 268、佛教徒现在最需要的是什么？为什么？怎样才能达到这个目标？
@@ -1530,6 +1607,14 @@ import Mypara from '@site/src/components/myp';
 我今回向诸善根  为得普贤殊胜行
 
 ## 第六十九节课
+
+- [《大圆满前行》讲解第69课.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第69课.mp4)
+
+- [《大圆满前行》讲解第69课.mp3 - 音频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第69课.mp3)
+
+- [前行第069节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第069节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-06yg#前行广释第69课辅导资料)
 
 思考题
 
@@ -1685,6 +1770,14 @@ import Mypara from '@site/src/components/myp';
 
 ## 第七十节课
 
+- [《大圆满前行》讲解第70课.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第70课.mp4)
+
+- [《大圆满前行》讲解第70课.mp3 - 音频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第70课.mp3)
+
+- [前行第070节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第070节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-06yg#前行广释第70课辅导资料)
+
 思考题
 
 275、为什么说就算行善、造恶很微小，最终成熟的果报也不可思议？请引用教证、公案进行分析。
@@ -1837,6 +1930,14 @@ import Mypara from '@site/src/components/myp';
 
 ## 第七十一节课
 
+- [《大圆满前行》讲解第71课.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第71课.mp4)
+
+- [《大圆满前行》讲解第71课.mp3 - 音频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第71课.mp3)
+
+- [前行第071节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第071节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-06yg#前行广释第71课辅导资料)
+
 思考题
 
 279、十种不善业中，哪些可以开许，哪些不可以？为什么？请详细说明。通过学习这些内容，你明白了什么道理？
@@ -1988,6 +2089,14 @@ import Mypara from '@site/src/components/myp';
 我今回向诸善根  为得普贤殊胜行
 
 ## 第七十二节课
+
+- [《大圆满前行》讲解第72课.mp4 - 视频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释视频/《大圆满前行》讲解第72课.mp4)
+
+- [《大圆满前行》讲解第72课.mp3 - 音频](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/007-前行广释音频/《大圆满前行》讲解第72课.mp3)
+
+- [前行第072节课(仅供参考).ppt](https://f.huidengchanxiu.net/jmy/007-大圆满前行广释/前行法师辅导（仅供参考）ppt/前行第072节课(仅供参考).ppt)
+
+- [法师辅导](/refs/qxgs/fudao/qxgsfd-06yg#前行广释第72课辅导资料)
 
 思考题
 

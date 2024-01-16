@@ -1,5 +1,5 @@
 ---
-title: "13往生法"
+title: "13往生法(138-142)"
 ---
 
 
@@ -15,6 +15,8 @@ import Mypara from '@site/src/components/myp';
 
 
 ## 《前行广释》第138课辅导资料  
+
+- [辅导音频--前行第07册137-144](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第07册137-144/)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 
@@ -321,6 +323,8 @@ import Mypara from '@site/src/components/myp';
 哲波措利卓瓦卓瓦效 愿度有海诸有情
 
 ## 《前行广释》第139课辅导资料  
+
+- [辅导音频--前行第07册137-144](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第07册137-144/)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 
@@ -684,6 +688,8 @@ import Mypara from '@site/src/components/myp';
 
 ## 《前行广释》第140课辅导资料
 
+- [辅导音频--前行第07册137-144](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第07册137-144/)
+
 诸法等性本基法界中，自现圆满三身游舞力，
 
 离障本来怙主龙钦巴，祈请无垢光尊常护我。
@@ -1041,6 +1047,8 @@ import Mypara from '@site/src/components/myp';
 今天我们的课就讲到这个地方！
 
 ## 《前行广释》第141课辅导资料
+
+- [辅导音频--前行第07册137-144](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第07册137-144/)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 
@@ -1465,6 +1473,8 @@ import Mypara from '@site/src/components/myp';
 哲波措利卓瓦卓瓦效 愿度有海诸有情
 
 ## 《前行广释》第142课辅导资料  
+
+- [辅导音频--前行第07册137-144](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第07册137-144/)
 
 诸法等性本基法界中，自现圆满三身游舞力,
 

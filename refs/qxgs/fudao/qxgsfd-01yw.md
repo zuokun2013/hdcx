@@ -1,6 +1,6 @@
 ---
 
-title: "01引文"
+title: "01引文(01-02)"
 
 ---
 
@@ -574,8 +574,9 @@ import Mypara from '@site/src/components/myp';
 
 ## 《大圆满前行》第1课辅导资料
 
-- [辅导音频](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第01册1-21/大圆满前行第01课2014年12月14日.m4a)
-- [问答音频](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第01册1-21/大圆满前行第01课问答2014年12月14日.m4a)
+- [辅导音频--前行第01册1-21](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第01册1-21/)
+- [大圆满前行第01课2014年12月14日.m4a](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第01册1-21/大圆满前行第01课2014年12月14日.m4a)
+- [大圆满前行第01课问答2014年12月14日.m4a](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第01册1-21/大圆满前行第01课问答2014年12月14日.m4a)
 
 
 今天我们正式开始学习《大圆满前行引导文•普贤上师言教》这部很殊胜的修法论典。
@@ -768,8 +769,7 @@ import Mypara from '@site/src/components/myp';
 
 ## 《大圆满前行》第2课辅导资料
 
-- [辅导音频](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第01册1-21/大圆满前行第02课2014年12月21日.m4a)
-- [问答音频](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第01册1-21/大圆满前行第02课问答2014年12月21日.m4a)
+- [辅导音频--前行第01册1-21](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第01册1-21/)
 
 为度化一切众生，请大家发无上的菩提心！今天我们再一次一起来学习华智仁波切所造的《大圆满前行引导文》。
 

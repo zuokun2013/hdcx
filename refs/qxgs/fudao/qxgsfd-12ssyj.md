@@ -1,5 +1,5 @@
 ---
-title: "12上师瑜伽"
+title: "12上师瑜伽(126-137)"
 ---
 
 
@@ -15,6 +15,8 @@ import Mypara from '@site/src/components/myp';
 
 
 ## 《前行广释》第126课辅导资料
+
+- [辅导音频--前行第06册114-136](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第06册114-136/)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 
@@ -255,6 +257,8 @@ import Mypara from '@site/src/components/myp';
 今天我们的课就讲到这个地方！
 
 ## 《前行广释》第127课辅导资料
+
+- [辅导音频--前行第06册114-136](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第06册114-136/)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 
@@ -571,6 +575,8 @@ import Mypara from '@site/src/components/myp';
 以上就学完了上师瑜伽的重要性。我们今天的课讲到这里。
 
 ## 《前行广释》第128课辅导资料
+
+- [辅导音频--前行第06册114-136](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第06册114-136/)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 
@@ -1012,6 +1018,8 @@ import Mypara from '@site/src/components/myp';
 
 ## 《前行广释》第129课辅导资料  
 
+- [辅导音频--前行第06册114-136](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第06册114-136/)
+
 诸法等性本基法界中，自现圆满三身游舞力，
 
 离障本来怙主龙钦巴，祈请无垢光尊常护我。
@@ -1392,6 +1400,8 @@ import Mypara from '@site/src/components/myp';
 
 ## 《前行广释》第130课辅导资料  
 
+- [辅导音频--前行第06册114-136](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第06册114-136/)
+
 诸法等性本基法界中，自现圆满三身游舞力，
 
 离障本来怙主龙钦巴，祈请无垢光尊常护我。
@@ -1762,6 +1772,8 @@ import Mypara from '@site/src/components/myp';
 
 ## 《前行广释》第131课辅导资料  
 
+- [辅导音频--前行第06册114-136](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第06册114-136/)
+
 诸法等性本基法界中，自现圆满三身游舞力，
 
 离障本来怙主龙钦巴，祈请无垢光尊常护我。
@@ -2112,6 +2124,8 @@ import Mypara from '@site/src/components/myp';
 
 ## 《前行广释》第132课辅导资料  
 
+- [辅导音频--前行第06册114-136](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第06册114-136/)
+
 诸法等性本基法界中，自现圆满三身游舞力，
 
 离障本来怙主龙钦巴，祈请无垢光尊常护我。
@@ -2443,6 +2457,8 @@ import Mypara from '@site/src/components/myp';
 哲波措利卓瓦卓瓦效 愿度有海诸有情
 
 ## 《前行广释》第133课辅导资料  
+
+- [辅导音频--前行第06册114-136](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第06册114-136/)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 
@@ -2932,6 +2948,8 @@ import Mypara from '@site/src/components/myp';
 
 ## 《前行广释》第134课辅导资料
 
+- [辅导音频--前行第06册114-136](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第06册114-136/)
+
 诸法等性本基法界中，自现圆满三身游舞力，
 
 离障本来怙主龙钦巴，祈请无垢光尊常护我。
@@ -3339,6 +3357,8 @@ import Mypara from '@site/src/components/myp';
 哲波措利卓瓦卓瓦效 愿度有海诸有情
 
 ## 《前行广释》第135课辅导资料
+
+- [辅导音频--前行第06册114-136](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第06册114-136/)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 
@@ -3810,6 +3830,8 @@ import Mypara from '@site/src/components/myp';
 
 ## 《前行广释》第136课辅导资料  
 
+- [辅导音频--前行第06册114-136](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第06册114-136/)
+
 诸法等性本基法界中，自现圆满三身游舞力，
 
 离障本来怙主龙钦巴，祈请无垢光尊常护我。
@@ -4147,6 +4169,8 @@ import Mypara from '@site/src/components/myp';
 哲波措利卓瓦卓瓦效 愿度有海诸有情
 
 ## 《前行广释》第137课辅导资料  
+
+- [辅导音频--前行第07册137-144](https://f.huidengchanxiu.net/jmy/前行辅导-智诚堪布/前行第07册137-144/)
 
 诸法等性本基法界中，自现圆满三身游舞力，
 
